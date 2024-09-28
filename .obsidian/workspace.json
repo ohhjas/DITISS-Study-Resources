@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "cae0612b53c46a47",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfa2a40028821b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba7b2c584d67a4ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Networks/Day 12/3. GRE Tunnel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cb2c703022d9a61",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a80055b8d107de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bbcc95c7f73d1d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2788ca5e2910d5c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af941fe66566e9e7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7e96f6dd9dfe749",
+    "type": "split",
+    "children": [
+      {
+        "id": "cba5783f409cf630",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8013281e15eea40b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Networks/Day 12/3. GRE Tunnel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "203f2d690d0cb457",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Computer Networks/Day 12/3. GRE Tunnel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5317cda559f879b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff3e2e1841edce4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Networks/Day 12/3. GRE Tunnel.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ba7b2c584d67a4ca",
+  "lastOpenFiles": [
+    "Computer Networks/Day 12/2. WPA.md",
+    "Computer Networks/Day 12/1. Security of WLAN and WEP.md"
+  ]
+}
