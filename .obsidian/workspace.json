@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1838d03f733ea587",
+        "id": "bd952b2afdbb9b91",
         "type": "tabs",
         "children": [
           {
-            "id": "e4b803099be573a5",
+            "id": "f45c062d1345dd4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems & Administration/Day 4/3. Types of Operating System.md",
+                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems & Administration/Day 4/3. Types of Operating System.md",
+                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems & Administration/Day 4/3. Types of Operating System.md",
+                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems & Administration/Day 4/3. Types of Operating System.md"
+                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md"
               }
             }
           }
@@ -146,24 +146,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e4b803099be573a5",
+  "active": "f45c062d1345dd4e",
   "lastOpenFiles": [
+    "Operating Systems & Administration/Day 5/images/3. Env.png",
+    "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
+    "Operating Systems & Administration/Day 5/images/3. 3.1.png",
+    "Operating Systems & Administration/Day 5/2. VI Editor.md",
+    "Operating Systems & Administration/Day 5/3. 3.3.png",
+    "Operating Systems & Administration/Day 5/3. 3.2.png",
+    "Operating Systems & Administration/Day 5/3. 3.1.png",
+    "Operating Systems & Administration/Day 5/1. Commands.md",
+    "Operating Systems & Administration/Day 5/images/1. Command2.png",
+    "Operating Systems & Administration/Day 5/images/1. Command1.png",
     "Operating Systems & Administration/Day 4/4. Grep (GNU Regular Expression Parser).md",
-    "Operating Systems & Administration/Day 4/5. Steps for VIM.md",
     "Operating Systems & Administration/Day 4/3. Types of Operating System.md",
-    "Operating Systems & Administration/Day 4/2. Evolution of OS.md",
+    "Operating Systems & Administration/Day 4/2. Types of OS based on Focus and Intended Use.md",
     "Operating Systems & Administration/Day 4/1. Few more Commands.md",
+    "Operating Systems & Administration/Day 1/1. Operating System.md",
+    "Operating Systems & Administration/Day 1/1. OS.png",
+    "Operating Systems & Administration/Day 4/5. Steps for VIM.md",
+    "Operating Systems & Administration/Day 5/images",
+    "Operating Systems & Administration/Day 5",
+    "Operating Systems & Administration/Day 4/images/3. BatchSystems.png",
     "Operating Systems & Administration/Day 4/3. Threads.png",
-    "Operating Systems & Administration/Day 4/4. Grep1.png",
-    "Operating Systems & Administration/Day 4/3. BatchSystems.png",
-    "Operating Systems & Administration/Day 4/3. ThreadBasedMultiprogramming.png",
-    "Operating Systems & Administration/Day 4/3. Resident Monitors.png",
-    "Operating Systems & Administration/Day 4/3. MultiprogrammingSystems.png",
-    "Operating Systems & Administration/Day 4/3. ProcessBasedMultitasking.png",
-    "Operating Systems & Administration/Day 4/3. Multi-User.png",
     "Operating Systems & Administration/Day 3/4. Some more commands.md",
-    "Operating Systems & Administration/Day 4/4. Grep8.png",
-    "Operating Systems & Administration/Day 4/4. Grep7.png",
     "Operating Systems & Administration/Day 2/7. Redirection.md",
     "Operating Systems & Administration/Day 2/6. Some more commands.md",
     "Operating Systems & Administration/Day 2/5. Process Life Cycle.md",
@@ -176,7 +182,6 @@
     "Operating Systems & Administration/Day 3/1. Revision.md",
     "Operating Systems & Administration/Day 4",
     "Operating Systems & Administration/Day 3/2. Redirection.md",
-    "Operating Systems & Administration/Day 1/1. Operating System.md",
     "Operating Systems & Administration/Day 3",
     "Computer Networks/Day 1/4. Ethernet.md",
     "Computer Networks/Day 12/3. GRE Tunnel.md",
