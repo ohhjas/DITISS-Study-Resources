@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
+                "file": "Operating Systems & Administration/Day 6/1.  Spacing in Shell Scripting.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 396.5
+    "width": 277.5
   },
   "right": {
     "id": "d7e96f6dd9dfe749",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
+                "file": "Operating Systems & Administration/Day 6/1.  Spacing in Shell Scripting.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
+                "file": "Operating Systems & Administration/Day 6/1.  Spacing in Shell Scripting.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md"
+                "file": "Operating Systems & Administration/Day 6/1.  Spacing in Shell Scripting.md"
               }
             }
           }
@@ -148,8 +148,29 @@
   },
   "active": "f45c062d1345dd4e",
   "lastOpenFiles": [
-    "Operating Systems & Administration/Day 5/images/3. Env.png",
+    "Operating Systems & Administration/Day 6/2. Types of Kernel.md",
+    "Operating Systems & Administration/Day 6/3. Shell Scripting again.md",
+    "README.md",
+    "Operating Systems & Administration/Day 6/1.  Spacing in Shell Scripting.md",
+    "Operating Systems & Administration/Day 6/scripts/script26.sh",
+    "Operating Systems & Administration/Day 6/scripts/script25.sh",
+    "Operating Systems & Administration/Day 6/scripts/script24.sh",
+    "Operating Systems & Administration/Day 6/scripts/script23.sh",
+    "Operating Systems & Administration/Day 6/scripts/script22.sh",
+    "Operating Systems & Administration/Day 6/scripts/script21.sh",
+    "Operating Systems & Administration/Day 6/scripts/script20.sh",
+    "Operating Systems & Administration/Day 6/scripts/script19.sh",
+    "Operating Systems & Administration/Day 6/scripts/script18.sh",
+    "Operating Systems & Administration/Day 6/scripts/script17.sh",
+    "Operating Systems & Administration/Day 6/images/2. Micro.png",
+    "Operating Systems & Administration/Day 6/images/3. Modular.png",
+    "Operating Systems & Administration/Day 6/images/2. Monolithic.png",
+    "Computer Networks/Day 1/2. Generations of Computation.md",
+    "Computer Networks/Day 1/1. Networks and its History.md",
     "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
+    "Operating Systems & Administration/Day 3/4. Some more commands.md",
+    "Operating Systems & Administration/Day 4/1. Few more Commands.md",
+    "Operating Systems & Administration/Day 5/images/3. Env.png",
     "Operating Systems & Administration/Day 5/images/3. 3.1.png",
     "Operating Systems & Administration/Day 5/2. VI Editor.md",
     "Operating Systems & Administration/Day 5/3. 3.3.png",
@@ -161,15 +182,8 @@
     "Operating Systems & Administration/Day 4/4. Grep (GNU Regular Expression Parser).md",
     "Operating Systems & Administration/Day 4/3. Types of Operating System.md",
     "Operating Systems & Administration/Day 4/2. Types of OS based on Focus and Intended Use.md",
-    "Operating Systems & Administration/Day 4/1. Few more Commands.md",
     "Operating Systems & Administration/Day 1/1. Operating System.md",
-    "Operating Systems & Administration/Day 1/1. OS.png",
     "Operating Systems & Administration/Day 4/5. Steps for VIM.md",
-    "Operating Systems & Administration/Day 5/images",
-    "Operating Systems & Administration/Day 5",
-    "Operating Systems & Administration/Day 4/images/3. BatchSystems.png",
-    "Operating Systems & Administration/Day 4/3. Threads.png",
-    "Operating Systems & Administration/Day 3/4. Some more commands.md",
     "Operating Systems & Administration/Day 2/7. Redirection.md",
     "Operating Systems & Administration/Day 2/6. Some more commands.md",
     "Operating Systems & Administration/Day 2/5. Process Life Cycle.md",
@@ -179,13 +193,6 @@
     "Operating Systems & Administration/Day 2/1. More about File Systems.md",
     "3..md",
     "Operating Systems & Administration/Day 3/3. Pipes.md",
-    "Operating Systems & Administration/Day 3/1. Revision.md",
-    "Operating Systems & Administration/Day 4",
-    "Operating Systems & Administration/Day 3/2. Redirection.md",
-    "Operating Systems & Administration/Day 3",
-    "Computer Networks/Day 1/4. Ethernet.md",
-    "Computer Networks/Day 12/3. GRE Tunnel.md",
-    "Computer Networks/Day 12/2. WPA.md",
-    "Computer Networks/Day 12/1. Security of WLAN and WEP.md"
+    "Operating Systems & Administration/Day 3/1. Revision.md"
   ]
 }
