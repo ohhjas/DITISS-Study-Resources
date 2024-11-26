@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ffc3936fd720d50b",
+            "id": "c965cb612ece0fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Concepts/Day 2/1. Different Network Types Table.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Different Network Types Table"
+            }
+          },
+          {
+            "id": "60517f269c6c3942",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,20 +33,6 @@
               },
               "icon": "lucide-file",
               "title": "4. Network Adapters in VMware"
-            }
-          },
-          {
-            "id": "365da4318b857ffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Compliance Audit/Day 3/7. International Organisation for Standardisation (ISO) 27001.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7. International Organisation for Standardisation (ISO) 27001"
             }
           }
         ]
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 365.5
   },
   "right": {
     "id": "ef3818027ca3ebbd",
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Concepts/Day 1/4. Network Adapters in VMware.md"
+                "file": "Security Concepts/Day 2/1. Different Network Types Table.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Network Adapters in VMware"
+              "title": "Outline of 1. Different Network Types Table"
             }
           }
         ],
@@ -164,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368.5,
-    "collapsed": true
+    "width": 293.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,13 +176,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffc3936fd720d50b",
+  "active": "c965cb612ece0fa3",
   "lastOpenFiles": [
-    "Security Concepts/Day 1/To Do List.md",
+    "Security Concepts/Day 2/2. Understanding Phishing Attacks and Their Implementation.md",
+    "Case Study Risk Assessment.md",
+    "Security Concepts/Day 2/1. Different Network Types Table.md",
     "Security Concepts/Day 1/4. Network Adapters in VMware.md",
+    "Security Concepts/Day 1/3. Understanding Security and the CIA Triad.md",
+    "Security Concepts/Day 1/To Do List.md",
     "Compliance Audit/Day 3/7. International Organisation for Standardisation (ISO) 27001.md",
     "Compliance Audit/Day 3/9. General Data Protection Regulation (GDPR).md",
-    "Security Concepts/Day 1/3. Understanding Security and the CIA Triad.md",
     "Security Concepts/Day 1/2. COSA Revision.md",
     "Security Concepts/Day 1/1. Basic Revision.md",
     "Security Concepts/Day 1/1. FCN Revision.md",
@@ -205,9 +207,6 @@
     "Compliance Audit/Day 3/10. An Actual Compliance Audit?.md",
     "Compliance Audit/Day 3/11. Control Objectives for Information and Related Technology (COBIT).md",
     "Compliance Audit/Day 2/3. NIST Cybersecurity Framework (CSF).md",
-    "Compliance Audit/Day 2/2. Health Insurance Portability and Accountability Act (HIPAA).md",
-    "Compliance Audit/Day 2/1. PCI DSS (Payment Card Industry Data Security Standard).md",
-    "Compliance Audit/Day 3/3. CIS Critical Security Controls (07, 08, 09).md",
     "Compliance Audit/Day 4",
     "Compliance Audit/Day 3/9. GDPR.png",
     "Compliance Audit/Day 3",
