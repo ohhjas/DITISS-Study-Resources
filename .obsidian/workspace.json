@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
+                "file": "Security Concepts/Day 2/3. Host-Only.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Bypassing OTP Verification"
+              "title": "3. Host-Only"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Concepts/Day 4/2. Bypassing OTP Verification.md"
+                "file": "Security Concepts/Day 2/3. Host-Only.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Bypassing OTP Verification"
+              "title": "Outline of 3. Host-Only"
             }
           }
         ],
@@ -178,20 +178,20 @@
   },
   "active": "c965cb612ece0fa3",
   "lastOpenFiles": [
-    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
+    "Security Concepts/Day 2/5. NAT Network.md",
+    "Security Concepts/Day 2/4. NAT.md",
+    "Security Concepts/Day 2/6. Understanding Phishing Attacks.md",
+    "Security Concepts/Day 2/3. Host-Only.md",
+    "Security Concepts/Day 2/2. Bridged Network.md",
+    "Security Concepts/Day 2/1. Internal Network.md",
     "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
+    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
     "Security Concepts/Day 4/3. Assignment (DNS Spoofing).md",
     "Security Concepts/Day 4/4. Extra.md",
-    "Security Concepts/Day 2/1. Internal Network.md",
     "Security Concepts/Day 4/3..md",
-    "Security Concepts/Day 2/3. Host-Only.md",
     "Security Concepts/Day 2/7. Extra.md",
-    "Security Concepts/Day 2/2. Bridged Network.md",
     "Security Concepts/Day 3/3. Social Presence and Its Role in Social Engineering.md",
     "Security Concepts/Day 2/1. Different Network Types Table.md",
-    "Security Concepts/Day 2/6. Understanding Phishing Attacks.md",
-    "Security Concepts/Day 2/4. NAT.md",
-    "Security Concepts/Day 2/5. NAT Network.md",
     "Security Concepts/Day 1/4. Network Adapters in VMware.md",
     "Security Concepts/Day 1/5. Extra.md",
     "Security Concepts/Day 3/1. Social Engineering Attacks.md",
