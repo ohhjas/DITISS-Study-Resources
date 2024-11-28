@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Concepts/Day 3/2. Types of SE Attacks.md",
+                "file": "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Types of SE Attacks"
+              "title": "2. Bypassing OTP Verification"
+            }
+          },
+          {
+            "id": "89e566f568791ef5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Concepts/Day 2/1. Internal Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. Internal Network"
             }
           }
         ]
@@ -77,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5
+    "width": 332.5
   },
   "right": {
     "id": "ef3818027ca3ebbd",
@@ -139,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Concepts/Day 3/2. Types of SE Attacks.md"
+                "file": "Security Concepts/Day 4/2. Bypassing OTP Verification.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Types of SE Attacks"
+              "title": "Outline of 2. Bypassing OTP Verification"
             }
           }
         ],
@@ -164,36 +178,37 @@
   },
   "active": "c965cb612ece0fa3",
   "lastOpenFiles": [
+    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
+    "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
+    "Security Concepts/Day 4/3. Assignment (DNS Spoofing).md",
+    "Security Concepts/Day 4/4. Extra.md",
+    "Security Concepts/Day 2/1. Internal Network.md",
+    "Security Concepts/Day 4/3..md",
+    "Security Concepts/Day 2/3. Host-Only.md",
+    "Security Concepts/Day 2/7. Extra.md",
+    "Security Concepts/Day 2/2. Bridged Network.md",
     "Security Concepts/Day 3/3. Social Presence and Its Role in Social Engineering.md",
-    "Security Concepts/Day 3/4. Extra.md",
-    "Security Concepts/Day 2/3. Extra.md",
     "Security Concepts/Day 2/1. Different Network Types Table.md",
-    "Security Concepts/Day 2/2. Understanding Phishing Attacks and Their Implementation.md",
-    "Security Concepts/Day 3/To do.md",
-    "Security Concepts/Day 3/1. Social Engineering Attacks.md",
-    "Security Concepts/Day 3/2. Types of SE Attacks.md",
-    "Important Things!.md",
+    "Security Concepts/Day 2/6. Understanding Phishing Attacks.md",
+    "Security Concepts/Day 2/4. NAT.md",
+    "Security Concepts/Day 2/5. NAT Network.md",
+    "Security Concepts/Day 1/4. Network Adapters in VMware.md",
     "Security Concepts/Day 1/5. Extra.md",
+    "Security Concepts/Day 3/1. Social Engineering Attacks.md",
+    "Compliance Audit/Day 1/1. Key Concepts.md",
+    "Case Study Risk Assessment.md",
+    "Important Things!.md",
+    "Security Concepts/Day 3/4. Extra.md",
+    "Security Concepts/Day 4",
+    "Security Concepts/Day 3/2. Types of SE Attacks.md",
+    "Security Concepts/Day 3/To do.md",
     "Security Concepts/Day 1/2. COSA Revision.md",
     "Security Concepts/Day 1/1. FCN Revision.md",
     "Security Concepts/Day 3/To read.md",
     "Security Concepts/Day 3",
-    "Case Study Risk Assessment.md",
-    "Security Concepts/Day 1/4. Network Adapters in VMware.md",
-    "Security Concepts/Day 1/3. Understanding Security and the CIA Triad.md",
-    "Security Concepts/Day 1/To Do List.md",
-    "Compliance Audit/Day 3/7. International Organisation for Standardisation (ISO) 27001.md",
-    "Compliance Audit/Day 3/9. General Data Protection Regulation (GDPR).md",
-    "Security Concepts/Day 1/1. Basic Revision.md",
-    "w3schools.com.md",
-    "Computer Networks/Software Defined Network (SDN) by Sandeep Sir.md",
     "Security Concepts/Day 1",
-    "Security Concepts/Untitled.md",
     "Security Concepts",
     "Compliance Audit/mininet.zip",
-    "Compliance Audit/Day 4/6. Common Criteria.md",
-    "Compliance Audit/Day 4/7. Systems Security Engineering Capability Maturity Model (SSE-CMM).md",
-    "Compliance Audit/Day 4/5. Security Evaluation.md",
     "Compliance Audit/Day 4",
     "Compliance Audit/Day 3/9. GDPR.png",
     "Compliance Audit/Day 3",
