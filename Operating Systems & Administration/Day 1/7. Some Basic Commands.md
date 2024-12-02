@@ -1,0 +1,114 @@
+### **Shell Information**
+
+- `echo $SHELL`: Displays the default shell of your system.
+
+---
+
+### **Directory and File Listing**
+
+- `ls`: Displays the contents of the current directory.
+- `ls <path>`: Displays the contents of a specified path.
+- `ls /`: Displays the contents of the root directory.
+- `ls /boot`: Displays the contents of the boot directory.
+- `ls /home/`: Displays the contents of the home directory.
+- `ls /dev`: Displays all device files.
+- `ls -R`: Displays the entire directory hierarchy recursively, showing all files and sub-directories.
+- `ls -a` : lists all files including hidden ones (starting with `.`)
+- `ls -A`: does the same but excludes `.` (current directory) and `..` (parent directory).
+- `ls -l`: 
+
+- `cd`: Changes current working directory to `home` directory.
+- `cd~`: Same as previous. Changes current directory to `home` directory.
+- `cd Desktop/`: Changes the current directory to `Desktop`.
+- `cd dir1`: Changes the present working directory to `dir1`.
+- `cd ..`: Changes the present working directory to its `parent` or `previous` directory.
+- `cd -`: Changes to previous present working directory. 
+- **Note:** In every directory, by default two entries are made that are hidden. The first one is `.` and `..`,  `.` indicates current directory and `..` indicates parent directory.
+---
+
+### **System Information**
+
+- `cat /proc/cpuinfo`: Displays CPU information stored in the `/proc` directory.
+- `cat /proc/meminfo`: Displays memory information stored in the `/proc` directory.
+- `date`: Displays the current date and time.
+- `date -s`: Sets the date and time.
+- `man <command>`: Displays the manual page for a command (e.g., `man date` for the date command).
+
+---
+
+### **Calendar**
+
+- `cal`: Displays the calendar of the current month.
+- `cal -y`: Displays the calendar for the current year.
+- `cal -y <year>`: Displays the calendar for a specific year.
+- `ncal`: An alternative command for displaying calendars.
+
+---
+
+### **File and Directory Operations**
+
+#### **Working Directory**
+
+- `pwd`: Displays the present working directory.
+
+#### **Creating Directories**
+
+- `mkdir <directory>`: Creates a directory with the specified name.
+    - Example: `mkdir ditiss`
+- `mkdir <dir1> <dir2> <dir3>`: Creates multiple directories.
+    - Example: `mkdir dir1 dir2 dir3`
+- `mkdir -p d1/d2/d3`: Creates nested directories in one command.
+    - Example: `mkdir -p d1/d2/d3`
+
+#### **Clearing Terminal**
+
+- `clr`: Clears the terminal.
+- Shortcut: `Ctrl + L`
+
+#### **Removing Directories**
+
+- `rmdir <directory>`: Removes an empty directory.
+    - Example: `rmdir dir1`
+- `rm -r <directory>`: Removes a directory and its contents recursively.
+    - Example: `rm -r dir2`
+
+#### **File Operations**
+
+- `touch <file>`: Creates an empty file.
+    - Example: `touch file.txt`
+- `cat <file>`: Displays the contents of the specified file.
+    - Example: `cat file.txt`
+- `cat > <file>`: Creates or overwrites a file with content.
+    - End the input with `Ctrl + D`.
+- `cat >> <file>`: Appends content to an existing file.
+- `rm <file>`: Removes the specified file.
+    - Example: `rm file.txt`
+
+---
+
+### **Copying and Moving Files**
+
+- `cp <source> <destination>`: Copies files or directories.
+    - Example: `cp file.txt dir1` (Copies `file.txt` to `dir1`)
+    - `cp -r <source> <destination>`: Recursively copies directories.
+    - Example: `cp -r dir1 dir2` (Copies `dir1` to `dir2`)
+- `mv <source> <destination>`: Moves or renames files or directories.
+    - Example: `mv file.txt moved.txt` (Renames `file.txt` to `moved.txt`)
+    - Example: `mv file.txt dir2` (Moves `file.txt` to `dir2`)
+      In this example, `dir2` should already be created otherwise this command won't work.
+      
+---
+
+### **Shortcut Keys**
+
+- `Ctrl + L`: Clears the terminal.
+- `Ctrl + D`: Ends input in file creation (`cat >` or `cat >>`).
+
+---
+
+### **Notes**
+
+- `rmdir` is only used for removing **empty** directories.
+- `rm -r` removes **non-empty** directories and their contents.
+- When we use touch command on an existing file, then it **updates its time stamp**.
+- While creating a file, if you include a **dot (.)** before the file name then the file will be **hidden**. Same for directories as well.

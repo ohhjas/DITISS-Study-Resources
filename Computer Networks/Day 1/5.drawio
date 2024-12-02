@@ -1,0 +1,69 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.7.8 Chrome/128.0.6613.36 Electron/32.0.1 Safari/537.36" version="24.7.8">
+  <diagram name="Page-1" id="Mzq8-4FA2dDdi1sxJQ4g">
+    <mxGraphModel dx="1229" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="530" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="SfJzcQwp50cJy-VkoOvj-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="159.81818181818187" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-2" value="CRC" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="120" y="280" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-3" value="DATA" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-4" value="Options" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="410" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-5" value="Source MAC" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="280" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-6" value="Destination&lt;div&gt;MAC&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="560" y="280" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-7" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-8" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="500" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-10" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="435" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-11" value="1518 Bytes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="330" y="188" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-12" value="Options can be:&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;TCP/IP&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;Appletalk&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NetBE UI&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;NWLink&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;IPX/SPX&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;CLNS&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="390" y="380" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-13" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=0.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="SfJzcQwp50cJy-VkoOvj-4" target="SfJzcQwp50cJy-VkoOvj-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-16" value="Cyclic Redundancy Check" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="380" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-17" value="Frame Size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="330" y="170" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-18" value="The CRC is going to mismatch&amp;nbsp;&lt;div&gt;if there is any hampering in&amp;nbsp;&lt;/div&gt;&lt;div&gt;the data while transmission&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="400" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-19" value="MTU: Maximum Transmission Unit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="475" y="128" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SfJzcQwp50cJy-VkoOvj-20" value="1500" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="270" y="250" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
