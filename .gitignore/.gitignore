@@ -1,0 +1,17 @@
+.obsidian/
+.DS_Store
+Thumbs.db
+*.swp
+*.tmp
+*.bak
+*.log
+.git/
+*.zip
+*.tar.gz
+*.rar
+.Trash/
+*.bkp-*
+*.png.bkp-*
+*.xdp-*
+*.~drawio~
+*.bak.drawio

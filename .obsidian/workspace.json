@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "cac6c63ef34170da",
+    "type": "split",
+    "children": [
+      {
+        "id": "b9c1f5b43a9dfa78",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c965cb612ece0fa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2. Android Hacking with Kali Linux (.apk Payload)"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6dcb30e51c28633c",
+    "type": "split",
+    "children": [
+      {
+        "id": "54e7f400649901ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4514940282d85d3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e5a23e66d47e5ec8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f15c929df4e89d4c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332.5
+  },
+  "right": {
+    "id": "ef3818027ca3ebbd",
+    "type": "split",
+    "children": [
+      {
+        "id": "484a594c869f67e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "839ea196809c93e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Compliance Audit/Day 1/Untitled 2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled 2"
+            }
+          },
+          {
+            "id": "b9c6aecf6678b5de",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Compliance Audit/Day 1/Untitled 2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled 2"
+            }
+          },
+          {
+            "id": "70a79681a7d40430",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fef9b6089e9eee89",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Android Hacking with Kali Linux (.apk Payload)"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "c965cb612ece0fa3",
+  "lastOpenFiles": [
+    "Security Concepts/Day 6/1. Phishing and Information Gathering.md",
+    "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md",
+    "Security Concepts/Day 5/1. Web Exploits XSS and Command Injection.md",
+    "Security Concepts/Day 5/2. HTTP Redirection and Server Configuration.md",
+    "Compliance Audit/Day 3/11. An Actual Compliance Audit.md",
+    "Compliance Audit/Day 3/2. CIS Critical Security Controls (01, 02, 03).md",
+    "Compliance Audit/Day 3/1. CIS Critical Security Controls.md",
+    "Compliance Audit/Day 3/11. Control Objectives for Information and Related Technology (COBIT).md",
+    "Compliance Audit/Day 3/10. An Actual Compliance Audit.md",
+    "Compliance Audit/Day 3/9. General Data Protection Regulation (GDPR).md",
+    "Compliance Audit/Day 3/8. Assignment.md",
+    "Security Concepts/Day 1/1. FCN Revision.md",
+    "Security Concepts/Day 3/4. Extra.md",
+    "Security Concepts/Day 6",
+    "Security Concepts/Day 4/3. Assignment (DNS Spoofing).md",
+    "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
+    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
+    "Security Concepts/Day 2/4. NAT.md",
+    "Security Concepts/Day 2/1. Internal Network.md",
+    "Security Concepts/Day 5",
+    "Security Concepts/Day 2/3. Host-Only.md",
+    "Security Concepts/Day 2/5. NAT Network.md",
+    "Security Concepts/Day 2/2. Bridged Network.md",
+    "Security Concepts/Day 2/6. Understanding Phishing Attacks.md",
+    "Security Concepts/Day 4/4. Extra.md",
+    "Security Concepts/Day 4/3..md",
+    "Security Concepts/Day 2/7. Extra.md",
+    "Security Concepts/Day 3/3. Social Presence and Its Role in Social Engineering.md",
+    "Security Concepts/Day 4",
+    "Security Concepts/Day 3",
+    "Security Concepts/Day 1",
+    "Security Concepts",
+    "Compliance Audit/mininet.zip",
+    "Compliance Audit/Day 4",
+    "Compliance Audit/Day 3/9. GDPR.png",
+    "Compliance Audit/Day 3",
+    "Compliance Audit/Day 1"
+  ]
+}
