@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b9c1f5b43a9dfa78",
+        "id": "11a1b25e12259db3",
         "type": "tabs",
         "children": [
           {
-            "id": "c965cb612ece0fa3",
+            "id": "d4b7b99fd6e9e6a6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md",
+                "file": "Security Concepts/Day 8/5. Creating your own password list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2. Android Hacking with Kali Linux (.apk Payload)"
+              "title": "5. Creating your own password list"
             }
           }
         ]
@@ -77,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332.5
+    "width": 318.5,
+    "collapsed": true
   },
   "right": {
     "id": "ef3818027ca3ebbd",
@@ -139,10 +140,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md"
+                "file": "Security Concepts/Day 8/5. Creating your own password list.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Android Hacking with Kali Linux (.apk Payload)"
+              "title": "Outline of 5. Creating your own password list"
+            }
+          },
+          {
+            "id": "6ef59cc0b4962c1e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -150,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 293.5
+    "width": 286.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,10 +174,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c965cb612ece0fa3",
+  "active": "d4b7b99fd6e9e6a6",
   "lastOpenFiles": [
-    "Security Concepts/Day 6/1. Phishing and Information Gathering.md",
+    "Security Concepts/Day 8/4. Hacking the Wi-Fi.md",
+    "Security Concepts/Day 8/3. Recon-ng Setup.md",
+    "Security Concepts/Day 8/2. VAPT Phase 2 Information Gathering (Reconnaissance).md",
+    "Security Concepts/Day 8/1. VAPT Phase 1 Planning.md",
+    "Security Concepts/Day 8/5. Creating your own password list.md",
+    "Security Concepts/Syllabus Coverage.md",
+    "Security Concepts/Day 7/3. Security Testing.md",
+    "Security Concepts/Day 7/2. Windows XP Meterpreter Attack Using Kali Linux.md",
+    "Security Concepts/Day 7/1. Traffic Analysis with Android Emulator and Kali Linux in VirtualBox.md",
+    "Windows Administration/Day 4/2..md",
+    "Windows Administration/Day 4/1. Revise.md",
+    "Windows Administration/Day 3/1. Trust.md",
+    "Windows Administration/Day 3/2. Domain Naming System (DNS).md",
+    "Security Concepts/Day 7/4. Overview of Security Testing and VAPT.md",
+    "Security Concepts/Day 8",
     "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md",
+    "Security Concepts/Day 6/1. Phishing and Information Gathering.md",
     "Security Concepts/Day 5/1. Web Exploits XSS and Command Injection.md",
     "Security Concepts/Day 5/2. HTTP Redirection and Server Configuration.md",
     "Compliance Audit/Day 3/11. An Actual Compliance Audit.md",
@@ -176,22 +203,8 @@
     "Compliance Audit/Day 3/9. General Data Protection Regulation (GDPR).md",
     "Compliance Audit/Day 3/8. Assignment.md",
     "Security Concepts/Day 1/1. FCN Revision.md",
-    "Security Concepts/Day 3/4. Extra.md",
     "Security Concepts/Day 6",
-    "Security Concepts/Day 4/3. Assignment (DNS Spoofing).md",
-    "Security Concepts/Day 4/2. Bypassing OTP Verification.md",
-    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
-    "Security Concepts/Day 2/4. NAT.md",
-    "Security Concepts/Day 2/1. Internal Network.md",
     "Security Concepts/Day 5",
-    "Security Concepts/Day 2/3. Host-Only.md",
-    "Security Concepts/Day 2/5. NAT Network.md",
-    "Security Concepts/Day 2/2. Bridged Network.md",
-    "Security Concepts/Day 2/6. Understanding Phishing Attacks.md",
-    "Security Concepts/Day 4/4. Extra.md",
-    "Security Concepts/Day 4/3..md",
-    "Security Concepts/Day 2/7. Extra.md",
-    "Security Concepts/Day 3/3. Social Presence and Its Role in Social Engineering.md",
     "Security Concepts/Day 4",
     "Security Concepts/Day 3",
     "Security Concepts/Day 1",
@@ -199,7 +212,6 @@
     "Compliance Audit/mininet.zip",
     "Compliance Audit/Day 4",
     "Compliance Audit/Day 3/9. GDPR.png",
-    "Compliance Audit/Day 3",
-    "Compliance Audit/Day 1"
+    "Compliance Audit/Day 3"
   ]
 }
