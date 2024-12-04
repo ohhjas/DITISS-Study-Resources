@@ -4,7 +4,7 @@
 1. [ ] OWASP Top 10 - 2021  
 2. [x] Injection and Inclusion  
 3. [x] Cross Site Scripting  
-4. [ ] Injection in stored procedures  
+4. [x] Injection in stored procedures  
 **Lab Assignment:**  
 1. [x] Give SQL queries to bypass authentication.  
 2. [x] Make your own cross site script and apply in any web application.  
@@ -38,9 +38,9 @@
 3. [x] Analyze web application with the help of Wireshark.  
   
 #### **Session 5**  
-1. [ ] SAST and DAST tools  
-2. [ ] Case Study On Web Application Framework  
-3. [ ] Use browser-jsguard Firefox add-on also to detect Malicious and Suspicious Webpages.  
+1. [x] SAST and DAST tools  
+2. [ ] Case Study On Web Application Framework  (Flask)
+3. [x] Use browser-jsguard Firefox add-on also to detect Malicious and Suspicious Webpages.  (developed by CDAC)
 **Lab Assignment:**  
 1. [ ] Try to do static and Dynamic application security testing by SAST and DAST tools.  
   
@@ -74,7 +74,7 @@
   
 #### **Session 9**  
 1. [ ] Types of Hacker Classes  
-2. [ ] Red team , Blue Team ,Grey Team  
+2. [x] Red team , Blue Team ,Grey Team  
 3. [ ] Ethical Hackers and Crackers  
 4. [ ] Goals of Attackers  
 5. [ ] Security, Functionality and Ease of Use Triangle  
