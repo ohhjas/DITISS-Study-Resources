@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "636d0a4740673e5b",
+        "id": "57614636e8f20164",
         "type": "tabs",
         "children": [
           {
-            "id": "8d1a8e097b94374b",
+            "id": "9c9023e8447edc50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security Concepts/Day 9/7. Extra.md",
+                "file": "Security Concepts/Day 10/5. Extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Extra"
+              "title": "5. Extra"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security Concepts/Day 9/7. Extra.md"
+                "file": "Security Concepts/Day 10/5. Extra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 7. Extra"
+              "title": "Outline of 5. Extra"
             }
           },
           {
@@ -173,36 +173,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d1a8e097b94374b",
+  "active": "9c9023e8447edc50",
   "lastOpenFiles": [
-    "Security Concepts/Day 9/3. ZAP (Zed Attacking Proxy).md",
+    "Security Concepts/Day 10/4. IT Act 2000 (Information Technology Act).md",
+    "Security Concepts/Day 10/3. Unauthorized Activity & Cyber Crime.md",
+    "Security Concepts/Day 10/2. nmap.md",
+    "Security Concepts/Day 10/1.  Tools for Security Analysis.md",
+    "Security Concepts/Day 10/5. Extra.md",
     "Security Concepts/Day 9/7. Extra.md",
     "Security Concepts/Day 9/6. macof.md",
     "Security Concepts/Day 9/5. DoS using hping3.md",
-    "Security Concepts/Day 9/2. XSS Types.md",
     "Security Concepts/Day 9/4. Some Practice Material.md",
+    "Security Concepts/Day 9/3. ZAP (Zed Attacking Proxy).md",
+    "Security Concepts/Day 9/2. XSS Types.md",
     "Security Concepts/Day 9/1. File Inclusion in DVWA.md",
-    "Security Concepts/Syllabus Coverage.md",
-    "Security Concepts/Day 8/4. Hacking the Wi-Fi.md",
     "Security Concepts/Day 8/5. Creating your own password list.md",
-    "Security Concepts/Day 4/1. Web App Security Vulnerabilities and Attacks.md",
-    "Security Concepts/Day 5/1. Web Exploits XSS and Command Injection.md",
+    "Security Concepts/Day 8/4. Hacking the Wi-Fi.md",
+    "Security Concepts/Day 8/3. Recon-ng Setup.md",
     "Security Concepts/Day 8/2. VAPT Phase 2 Information Gathering (Reconnaissance).md",
     "Security Concepts/Day 8/1. VAPT Phase 1 Planning.md",
-    "Security Concepts/Day 9",
-    "Security Concepts/Day 8/3. Recon-ng Setup.md",
+    "Security Concepts/Day 7/4. Overview of Security Testing and VAPT.md",
     "Security Concepts/Day 7/3. Security Testing.md",
     "Security Concepts/Day 7/2. Windows XP Meterpreter Attack Using Kali Linux.md",
     "Security Concepts/Day 7/1. Traffic Analysis with Android Emulator and Kali Linux in VirtualBox.md",
-    "Windows Administration/Day 4/2..md",
-    "Windows Administration/Day 4/1. Revise.md",
-    "Windows Administration/Day 3/1. Trust.md",
-    "Windows Administration/Day 3/2. Domain Naming System (DNS).md",
-    "Security Concepts/Day 7/4. Overview of Security Testing and VAPT.md",
-    "Security Concepts/Day 8",
     "Security Concepts/Day 6/2. Android Hacking with Kali Linux (.apk Payload).md",
     "Security Concepts/Day 6/1. Phishing and Information Gathering.md",
     "Security Concepts/Day 5/2. HTTP Redirection and Server Configuration.md",
+    "Security Concepts/Day 5/1. Web Exploits XSS and Command Injection.md",
+    "Security Concepts/Day 4/4. Extra.md",
+    "Security Concepts/Day 10",
+    "Security Concepts/Day 9",
+    "Security Concepts/Day 8",
     "Security Concepts/Day 6",
     "Security Concepts/Day 5",
     "Security Concepts/Day 4",
@@ -210,7 +211,6 @@
     "Security Concepts/Day 1",
     "Security Concepts",
     "Compliance Audit/mininet.zip",
-    "Compliance Audit/Day 4",
     "Compliance Audit/Day 3/9. GDPR.png"
   ]
 }
