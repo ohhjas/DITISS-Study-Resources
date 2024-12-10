@@ -1,7 +1,7 @@
 ## **Application Security**  
   
 #### **Session 1**  
-1. [ ] OWASP Top 10 - 2021  
+1. [x] OWASP Top 10 - 2021  
 2. [x] Injection and Inclusion  
 3. [x] Cross Site Scripting  
 4. [x] Injection in stored procedures  
@@ -10,24 +10,24 @@
 2. [x] Make your own cross site script and apply in any web application.  
   
 #### **Session 2**  
-1. [ ] Denial Of Service  
-2. [ ] Buffer Overflows and Input Validation  
+1. [x] Denial Of Service  
+2. [x] Buffer Overflows and Input Validation  
 3. [x] Access Control  
 **Lab Assignment:**  
-1. [ ] Try DOS attack to denial a service of any server.  
+1. [x] Try DOS attack to denial a service of any server.  
 2. [ ] Try to do input validation to get access in vulnerable application.  
   
 #### **Session 3**  
 1. [x] Web Application Security Risks  
 2. [x] Identifying the Application Security Risks  
-3. [ ] Threat Risk Modelling  
-4. [ ] Other HTTP fields  
+3. [x] Threat Risk Modelling  
+4. [x] Other HTTP fields  
 5. [x] Overview of Burp Suite features  
 **Lab Assignment:**  
-1. [ ] Identify all risks and vulnerabilities of web applications using tools.  
-2. [ ] Configuring Burp Suite with a web browser  
-3. [ ] Scanning web applications for vulnerabilities using Burp Suite  
-4. [ ] Using Burp Suite's scanner to identify common security issues  
+1. [x] Identify all risks and vulnerabilities of web applications using tools.  
+2. [x] Configuring Burp Suite with a web browser  
+3. [x] Scanning web applications for vulnerabilities using Burp Suite  
+4. [x] Using Burp Suite's scanner to identify common security issues  
   
 #### **Session 4**  
 1. [x] Data Extraction  
@@ -61,80 +61,80 @@
 5. [ ] Fundamentals of Information Security  
   
 #### **Session 8**  
-1. [ ] Cyber Crimes  
-2. [ ] Understanding Cyber Crimes in context of Internet  
-3. [ ] Legal aspects of open communications  
+1. [x] Cyber Crimes  
+2. [x] Understanding Cyber Crimes in context of Internet  
+3. [x] Legal aspects of open communications  
 4. [ ] Indian Penal Law & Cyber Crimes Fraud Hacking Mischief  
 5. [ ] International law  
-6. [ ] Obscenity and Pornography Internet  
-7. [ ] Introduction to Ethical Hacking  
-8. [ ] Understanding Ethical Hacking Terminology  
-9. [ ] Identifying Different Types of Hacking Technologies  
-10. [ ] Understanding the Different Phase Involved in Ethical Hacking  
+6. [x] Obscenity and Pornography Internet  
+7. [x] Introduction to Ethical Hacking  
+8. [x] Understanding Ethical Hacking Terminology  
+9. [x] Identifying Different Types of Hacking Technologies  
+10. [x] Understanding the Different Phase Involved in Ethical Hacking  
   
 #### **Session 9**  
 1. [ ] Types of Hacker Classes  
 2. [x] Red team , Blue Team ,Grey Team  
 3. [ ] Ethical Hackers and Crackers  
-4. [ ] Goals of Attackers  
+4. [x] Goals of Attackers  
 5. [ ] Security, Functionality and Ease of Use Triangle  
-6. [ ] Defining the Skills Required to become an Ethical Hacker  
+6. [x] Defining the Skills Required to become an Ethical Hacker  
   
 #### **Session 10**  
-1. [ ] Introduction to Ethical Hacking  
+1. [x] Introduction to Ethical Hacking  
 2. [ ] Creating a Security Evaluation Plan  
 3. [ ] Types of Ethical Hacks  
 4. [x] Foot-printing and Social Engineering  
 5. [ ] Understand How Traceroute Is Used in Foot-printing  
 6. [ ] Define the Terms Port Scanning, Network Scanning and Vulnerability Scanning  
-7. [ ] Understand various Scanning Methodologies  
-8. [ ] SYN, Stealth, XMAS, NULL, IDLE and FIN Scans  
+7. [x] Understand various Scanning Methodologies  
+8. [x] SYN, Stealth, XMAS, NULL, IDLE and FIN Scans  
   
 **Lab Assignment:**  
-1. [ ] Use NMAP, WHOIS for Reconnaissance.  
-2. [ ] Open-source Intelligence Gathering tool:  
-	1. [ ] Netcraft, Shadon, Google Dorks, Recon-Ng  
+1. [x] Use NMAP, WHOIS for Reconnaissance.  
+2. [x] Open-source Intelligence Gathering tool:  
+	1. [x] Netcraft, Shadon, Google Dorks, Recon-Ng  
 3. [ ] Use traceroute in foot-printing.  
-4. [ ] Use FOCA for finger printing.  
+4. [x] Use FOCA for finger printing.  
 5. [ ] Use Tree Pad tool for reporting  
 6. [ ] Using Burp Suite for Reconnaissance:  
 	1. [ ] Spidering the web application  
 	2. [ ] Mapping the attack surface using Burp Suite  
   
 #### **Session 11**  
-1. [ ] TCP Communication Flag Types  
-2. [ ] Banner Grabbing and OS Fingerprinting Techniques  
-3. [ ] How Proxy servers are used in launching an Attack?  
+1. [x] TCP Communication Flag Types  
+2. [x] Banner Grabbing and OS Fingerprinting Techniques  
+3. [x] How Proxy servers are used in launching an Attack?  
 4. [ ] Http tunneling Techniques  
-5. [ ] IP Spoofing Techniques  
-6. [ ] Enumeration  
-7. [ ] Password-cracking Techniques  
-8. [ ] Cracking Windows Passwords  
+5. [x] IP Spoofing Techniques  
+6. [x] Enumeration  
+7. [x] Password-cracking Techniques  
+8. [x] Cracking Windows Passwords  
 9. [ ] Redirecting the SMB Logon to the attackers  
 10. [ ] SMB Redirection, SMB Relay MITM Attacks and Countermeasures  
 11. [ ] NetBIOS DOS Attacks  
-12. [ ] DDos Attack  
+12. [x] DDos Attack  
  **Lab Assignment:**  
 1. [ ] Do all these practical of following  
-	1. [ ] Ip spoofing  
+	1. [x] Ip spoofing  
 	2. [ ] DNS Reconnaissance  
 	3. [ ] DNS Enumeration  
 	4. [ ] Host and Port Discovery (using NMAP) etc.  
-2. [ ] Use Nessus also to find Vulnerability.  
+2. [x] Use Nessus also to find Vulnerability.  
   
 #### **Session 12**
-1. [ ] Password-Cracking Countermeasures  
-2. [ ] Active/Passive online Attacks  
+1. [x] Password-Cracking Countermeasures  
+2. [x] Active/Passive online Attacks  
 3. [ ] Offline Attacks  
 4. [ ] Keyloggers and other Spyware Technologies  
-5. [ ] Trojans and Backdoors  
-6. [ ] Overt and Covert Channels  
-7. [ ] Types of Trojans  
+5. [x] Trojans and Backdoors  
+6. [x] Overt and Covert Channels  
+7. [x] Types of Trojans  
 8. [ ] Reverse-connecting Trojans  
-9. [ ] Netcat Trojan  
+9. [x] Netcat Trojan  
 10. [ ] Indications of a Trojan Attacks  
  **Lab Assignment:** 
-1. [ ] Use KALI operating system tools to crack password
+1. [x] Use KALI operating system tools to crack password
   
 #### **Session 13**  
 1. [ ] Wrapping  
@@ -154,7 +154,7 @@
 2. [x] Active and Passive Sniffing  
 3. [ ] ARP Poisoning  
 4. [ ] Ethereal Capture and Display Filters  
-5. [ ] MAC Flooding  
+5. [x] MAC Flooding  
 6. [ ] DNS Spoofing Techniques  
 7. [ ] DNS hacking  
 8. [ ] Describe Sniffing Countermeasures  
@@ -163,8 +163,8 @@
 1. [ ] Types of DOS Attacks  
 2. [ ] How DDos Attacks Work  
 3. [ ] How BOTs/BOTNETs work  
-4. [ ] Smurf Attacks  
-5. [ ] SYN Flooding  
+4. [x] Smurf Attacks  
+5. [x] SYN Flooding  
 6. [ ] Spoofing vs Hijacking  
 7. [ ] Types of Session Hijacking  
 8. [x] Steps to perform session Hijacking  
@@ -175,7 +175,7 @@
 2. [x] Web Application Vulnerabilities  
 3. [x] Web-Based Password Cracking Techniques  
 4. [x] Wireless Hacking  
-5. [ ] WEP, WPA Authentication Mechanisms and Cracking Techniques  
+5. [x] WEP, WPA Authentication Mechanisms and Cracking Techniques  
 6. [ ] Wireless Sniffers and Locating SSIDS, MAC spoofing  
 7. [ ] Wireless hacking Techniques  
 8. [ ] Methods used to secure Wireless Networks  
@@ -196,9 +196,9 @@
 2. [x] Overview of Physical Security  
 3. [x] Need of Physical Security  
 4. [x] Factors Affecting Physical Security  
-5. [ ] Penetration Testing Methodologies  
+5. [x] Penetration Testing Methodologies  
 **Lab Assignment:** 
-1. [ ] Use Metasploit framework for penetration testing.
+1. [x] Use Metasploit framework for penetration testing.
   
 #### **Session 20**  
 1. [ ] Types of Malware  
@@ -229,8 +229,8 @@
 1. [ ] Lab based on Android Debug Bridge
 
 #### **Session 23**  
-1. [ ] OWASP Top 10 Mobile App vulnerabilities  
-2. [ ] Attacks on Android Apps  
+1. [x] OWASP Top 10 Mobile App vulnerabilities  
+2. [x] Attacks on Android Apps  
 **Lab Assignment:** 
 1. [ ] Lab based on Reverse Engineering 
 2. [x] Lab based on Smishing attack
