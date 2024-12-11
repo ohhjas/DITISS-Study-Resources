@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDC & PKI/Day 1/1. Overview and Revision.md",
-                "mode": "preview",
+                "file": "NDC & PKI/Day 2/6. Extra.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Overview and Revision"
+              "title": "6. Extra"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 1/1. Overview and Revision.md"
+                "file": "NDC & PKI/Day 2/6. Extra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Overview and Revision"
+              "title": "Outline of 6. Extra"
             }
           },
           {
@@ -174,13 +174,25 @@
   },
   "active": "5fd68903258813b6",
   "lastOpenFiles": [
+    "NDC & PKI/Day 2/5. SYSLOG Server.md",
+    "NDC & PKI/Day 2/6. Extra.md",
+    "NDC & PKI/Day 2/4. Network Adapters in VMWare.md",
+    "NDC & PKI/Day 2/Untitled",
+    "NDC & PKI/Day 2/3. SNORT Rules.md",
+    "NDC & PKI/Day 2/2. SNORT Setup.md",
+    "NDC & PKI/Day 2/1. Overview of SNORT.md",
+    "NDC & PKI/Day 1/1. Overview and Revision.md",
     "NDC & PKI/Day 1/2. Information Security.md",
-    "NDC & PKI/Day 1/3. Software Vulnerabilities.md",
     "NDC & PKI/Day 1/4. Wireshark.md",
     "NDC & PKI/Day 1/5. Hash Function.md",
     "NDC & PKI/Day 1/6. TCPdump.md",
+    "NDC & PKI/Day 1/3. Software Vulnerabilities.md",
+    "Computer Networks/Day 11/4. Dynamic NAT.md",
+    "Computer Networks/Day 11/3. Static NAT.md",
+    "Computer Networks/Day 11/2. Network Address Translation (NAT).md",
+    "Security Concepts/Day 2/3. Host-Only.md",
+    "NDC & PKI/Day 2",
     "NDC & PKI/Day 1/7. Extra.md",
-    "NDC & PKI/Day 1/1. Overview and Revision.md",
     "Computer Networks/Day 3/3. Physical Layer.md",
     "Computer Networks/Day 3/5. Transport Layer.md",
     "Computer Networks/Day 3/4. Data Link and Network Layer.md",
@@ -190,18 +202,8 @@
     "Computer Networks/Day 2/2. Switches and Networks.md",
     "Computer Networks/Day 2/1. ARP (Address Resolution Protocol).md",
     "Computer Networks/Day 1/5. Extra.md",
-    "Computer Networks/Day 6/6. Routing.md",
-    "Computer Networks/Day 6/5. Configuring Hosts.md",
-    "Computer Networks/Day 6/4. Telnetting.md",
-    "Computer Networks/Day 6/3. Backup and Restore.md",
-    "Computer Networks/Day 6/2. CDP (Cisco Discovery Protocol).md",
-    "Computer Networks/Day 6/1. Some more commands.md",
     "Computer Networks/Day 5/router-arch.png",
     "Computer Networks/Day 5/cisco-router.png",
-    "Computer Networks/Day 5/2. ICMP (Internet Control Message Protocol).md",
-    "Computer Networks/Day 5/1. DHCP (Dynamic Host Configuration Protocol).md",
-    "Computer Networks/Day 4/2. Cabling.md",
-    "Computer Networks/Day 4/3. Protocols.md",
     "NDC & PKI/Day 1",
     "NDC & PKI",
     "Security Concepts/Mobile Security.pdf",
@@ -210,8 +212,6 @@
     "Security Concepts/Day 11",
     "Security Concepts/Day 10",
     "Security Concepts/Day 9",
-    "Security Concepts/Day 8",
-    "Security Concepts/Day 6",
     "Compliance Audit/Day 3/9. GDPR.png"
   ]
 }
