@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDC & PKI/Day 3/Extra.md",
-                "mode": "source",
+                "file": "NDC & PKI/Day 3/9. Extra.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra"
+              "title": "9. Extra"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 3/Extra.md"
+                "file": "NDC & PKI/Day 3/9. Extra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Extra"
+              "title": "Outline of 9. Extra"
             }
           },
           {
@@ -174,14 +174,17 @@
   },
   "active": "5fd68903258813b6",
   "lastOpenFiles": [
+    "NDC & PKI/Day 3/8. PKI Lab (Encryption and Decryption).md",
+    "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
     "NDC & PKI/Day 3/6. Nagios Setup.md",
     "NDC & PKI/Day 3/5. Package Installation in Linux.md",
+    "NDC & PKI/Day 3/9. Extra.md",
+    "NDC & PKI/Day 3/After the Break.md",
     "NDC & PKI/Day 3/4. nagios.png",
     "NDC & PKI/Day 3/4. Monitoring Health of a Machine.md",
     "NDC & PKI/Day 3/3. Encryption Schemes.md",
     "NDC & PKI/Day 3/2. Encryption Methods.md",
     "NDC & PKI/Day 3/1. Introduction to Cryptography.md",
-    "NDC & PKI/Day 3/Extra.md",
     "NDC & PKI/Day 3/1..md",
     "NDC & PKI/Day 3/Pasted image 20241212115128.png",
     "NDC & PKI/Day 2/2. SNORT Setup.md",
@@ -201,9 +204,7 @@
     "Computer Networks/Day 11/4. Dynamic NAT.md",
     "Computer Networks/Day 11/3. Static NAT.md",
     "Computer Networks/Day 11/2. Network Address Translation (NAT).md",
-    "Security Concepts/Day 2/3. Host-Only.md",
     "NDC & PKI/Day 2",
-    "NDC & PKI/Day 1/7. Extra.md",
     "Computer Networks/Day 5/router-arch.png",
     "Computer Networks/Day 5/cisco-router.png",
     "NDC & PKI/Day 1",
