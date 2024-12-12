@@ -1,6 +1,7 @@
 {
-  "baseFontSize": 18,
+  "baseFontSize": 16,
   "theme": "moonstone",
   "interfaceFontFamily": "Inter",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "monospaceFontFamily": "SF Pro Display"
 }

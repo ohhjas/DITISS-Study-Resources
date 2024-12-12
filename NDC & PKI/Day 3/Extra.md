@@ -1,0 +1,74 @@
+### **1. ASCII**
+
+- **ASCII (American Standard Code for Information Interchange)** is a character encoding standard used for representing text in computers. It encodes 128 characters, including:
+    - English letters (A-Z, a-z)
+    - Digits (0-9)
+    - Punctuation marks and control characters.
+
+### **2. Coding and Decoding**
+
+- **Coding** is the process of converting data or information into a specific format.
+- **Decoding** is the process of converting the encoded data back into its original format.
+
+### **3. Interview Question: What is the Difference Between Hashing and Encryption?**
+
+- **Hashing:**
+    - A one-way process that converts data into a fixed-length hash value (usually a checksum or fingerprint).
+    - It is irreversible, meaning once data is hashed, it cannot be turned back to the original form.
+    - Used for data integrity checks (e.g., storing passwords securely).
+    - Example: **SHA-256**, **MD5**.
+- **Encryption:**
+    - A two-way process used to secure data by converting it into a form that can only be read by someone with the decryption key.
+    - It is reversible, meaning data can be decrypted back to its original form using the proper key.
+    - Used for confidentiality (e.g., encrypting files or communication).
+    - Example: **AES**, **RSA**.
+
+### **4. Apache Folder Structure for Websites**
+
+- **`sites-available` Folder:**
+    
+    - This folder contains the configuration files for all websites on the server.
+    - Each website’s configuration should be present here, but the website is **not active** until it's linked to `sites-enabled`.
+- **`sites-enabled` Folder:**
+    
+    - This folder contains **active website configurations**.
+    - If you want a website to be live, create a **soft link** to its configuration file from `sites-available` to `sites-enabled`.
+    
+    **Command to create a soft link:**
+    
+    ```bash
+    sudo ln -s /etc/apache2/sites-available/your_site.conf /etc/apache2/sites-enabled/
+    ```
+    
+
+---
+
+### **5. Apache User: `www-data`**
+
+- In **Debian-based** systems (like Ubuntu), the `www-data` user is automatically created when you install and run the **Apache2** service.
+    - This user is responsible for running Apache web server processes and managing web content.
+- In **RedHat-based** systems (like Fedora), the `apache` user is automatically created when you install and run the **httpd** service.
+	- This user is responsible for running Apache web server processes and managing web content.
+
+---
+
+### **6. Nagios Modes**
+
+- Nagios has different **modes** or **states** that it operates in:
+    - **Monitoring Mode**: Where Nagios checks the health and status of servers, applications, and services.
+    - **Command Mode**: Allows Nagios to execute commands for monitoring and triggering actions like restarting services.
+    - **Web Interface Mode**: Through the Nagios web UI, users can view the status of monitored hosts and services and configure Nagios.
+
+---
+
+### **7. Why are the `rewrite` and `cgi` Modules of Apache2 Required for Nagios?**
+
+- **`rewrite` Module:**
+    - The `rewrite` module is necessary for **URL rewriting**. This allows Nagios to provide a cleaner, user-friendly URL structure in the web interface. It also enables redirecting URLs and handling complex URL patterns.
+- **`cgi` Module:**
+    - The **CGI (Common Gateway Interface)** module is required to execute scripts, such as those used by Nagios, through Apache.
+    - This allows Nagios to run dynamic content and interact with server-side processes, such as generating reports or running commands based on monitored data.
+
+Both of these modules ensure that Nagios functions correctly by enabling proper URL handling and dynamic content execution.
+
+---
