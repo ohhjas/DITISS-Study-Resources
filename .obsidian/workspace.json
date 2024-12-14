@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDC & PKI/Day 5/8. Extra.md",
+                "file": "NDC & PKI/Day 5/5. Message Authentication Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Extra"
-            }
-          },
-          {
-            "id": "3af07ce5b4ed1152",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. Remote Machine Monitoring (Nagios)"
+              "title": "5. Message Authentication Code"
             }
           }
         ]
@@ -153,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 5/8. Extra.md"
+                "file": "NDC & PKI/Day 5/5. Message Authentication Code.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Extra"
+              "title": "Outline of 5. Message Authentication Code"
             }
           },
           {
@@ -188,6 +174,14 @@
   },
   "active": "dfb08498e3d04431",
   "lastOpenFiles": [
+    "NDC & PKI/Day 5/4. Sharing Internet Access Between VMs Using Clear OS.md",
+    "NDC & PKI/Day 5/4. Network Interfaces.png",
+    "NDC & PKI/Day 5/3. OpenVPN Setup.md",
+    "NDC & PKI/Day 5/2. VPN.png",
+    "NDC & PKI/Day 5/2. Types of VPN.md",
+    "NDC & PKI/Day 5/1. Virtual Private Network (VPN).md",
+    "NDC & PKI/Day 5/8. Extra.md",
+    "NDC & PKI/Day 6",
     "NDC & PKI/Day 5/7. Monitoring a Remote Linux Machine using Nagios.md",
     "NDC & PKI/Day 5/14th Dec 2024.md",
     "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
@@ -197,15 +191,8 @@
     "NDC & PKI/Day 3/6. Nagios Setup.md",
     "NDC & PKI/Day 5/6. Squid as a Load Balancer.md",
     "NDC & PKI/Day 5/5. Message Authentication Code.md",
-    "NDC & PKI/Day 5/4. Sharing Internet Access Between VMs Using Clear OS.md",
-    "NDC & PKI/Day 5/3. OpenVPN Setup.md",
-    "NDC & PKI/Day 5/4. Network Interfaces.png",
     "NDC & PKI/Day 4/6. SQUID.md",
-    "NDC & PKI/Day 5/8. Extra.md",
-    "NDC & PKI/Day 5/1. Virtual Private Network (VPN).md",
     "NDC & PKI/Day 5/4",
-    "NDC & PKI/Day 5/2. VPN.png",
-    "NDC & PKI/Day 5/2. Types of VPN.md",
     "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
     "NDC & PKI/Day 5/VPN.png.crdownload",
     "NDC & PKI/Day 4/7. Extra.md",
@@ -222,7 +209,6 @@
     "NDC & PKI/Day 3/5. Package Installation in Linux.md",
     "NDC & PKI/Day 3/9. Extra.md",
     "NDC & PKI/Day 2/1. Overview of SNORT.md",
-    "NDC & PKI/Day 2/2. SNORT Setup.md",
     "NDC & PKI/Day 3/4. nagios.png",
     "NDC & PKI/Day 3/Pasted image 20241212115128.png",
     "NDC & PKI/Day 3",
@@ -232,7 +218,6 @@
     "Computer Networks/Day 5/cisco-router.png",
     "NDC & PKI/Day 1",
     "NDC & PKI",
-    "Security Concepts/Mobile Security.pdf",
     "Compliance Audit/Day 3/9. GDPR.png"
   ]
 }

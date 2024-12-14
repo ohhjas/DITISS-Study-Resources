@@ -1,8 +1,8 @@
 {
   "baseFontSize": 16,
-  "theme": "moonstone",
+  "theme": "obsidian",
   "interfaceFontFamily": "Inter",
   "textFontFamily": "Inter",
   "monospaceFontFamily": "American Typewriter",
-  "cssTheme": ""
+  "cssTheme": "GitHub Theme"
 }
