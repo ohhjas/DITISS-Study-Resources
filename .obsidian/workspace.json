@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDC & PKI/Day 4/6. SQUID.md",
-                "mode": "preview",
+                "file": "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "6. SQUID"
+              "title": "4. Remote Machine Monitoring (Nagios)"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 4/6. SQUID.md"
+                "file": "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 6. SQUID"
+              "title": "Outline of 4. Remote Machine Monitoring (Nagios)"
             }
           },
           {
@@ -174,6 +174,7 @@
   },
   "active": "68b342b1e6862034",
   "lastOpenFiles": [
+    "NDC & PKI/Day 4/6. SQUID.md",
     "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
     "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
     "NDC & PKI/Day 4/3. Question.png",
@@ -181,7 +182,6 @@
     "NDC & PKI/Day 4/2. Diffie-Hellman Key Exchange.md",
     "NDC & PKI/Day 4/1. Asymmetric Encryption Schemes.md",
     "NDC & PKI/Day 4/7. Extra.md",
-    "NDC & PKI/Day 4/6. SQUID.md",
     "NDC & PKI/Day 3/6. Nagios Setup.md",
     "Pasted image 20241213100609.png",
     "Pasted image 20241213095919.png",
