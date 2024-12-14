@@ -8,7 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "68b342b1e6862034",
+            "id": "dfb08498e3d04431",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NDC & PKI/Day 5/8. Extra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8. Extra"
+            }
+          },
+          {
+            "id": "3af07ce5b4ed1152",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -139,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md"
+                "file": "NDC & PKI/Day 5/8. Extra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Remote Machine Monitoring (Nagios)"
+              "title": "Outline of 8. Extra"
             }
           },
           {
@@ -160,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 256.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,37 +186,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "68b342b1e6862034",
+  "active": "dfb08498e3d04431",
   "lastOpenFiles": [
-    "NDC & PKI/Day 4/6. SQUID.md",
-    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
+    "NDC & PKI/Day 5/7. Monitoring a Remote Linux Machine using Nagios.md",
+    "NDC & PKI/Day 5/14th Dec 2024.md",
     "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
+    "NDC & PKI/Day 3/4. Monitoring Health of a Machine.md",
+    "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
+    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
+    "NDC & PKI/Day 3/6. Nagios Setup.md",
+    "NDC & PKI/Day 5/6. Squid as a Load Balancer.md",
+    "NDC & PKI/Day 5/5. Message Authentication Code.md",
+    "NDC & PKI/Day 5/4. Sharing Internet Access Between VMs Using Clear OS.md",
+    "NDC & PKI/Day 5/3. OpenVPN Setup.md",
+    "NDC & PKI/Day 5/4. Network Interfaces.png",
+    "NDC & PKI/Day 4/6. SQUID.md",
+    "NDC & PKI/Day 5/8. Extra.md",
+    "NDC & PKI/Day 5/1. Virtual Private Network (VPN).md",
+    "NDC & PKI/Day 5/4",
+    "NDC & PKI/Day 5/2. VPN.png",
+    "NDC & PKI/Day 5/2. Types of VPN.md",
+    "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
+    "NDC & PKI/Day 5/VPN.png.crdownload",
+    "NDC & PKI/Day 4/7. Extra.md",
+    "NDC & PKI/Day 5",
     "NDC & PKI/Day 4/3. Question.png",
     "NDC & PKI/Day 4/3. Network Configuration Scenario.md",
     "NDC & PKI/Day 4/2. Diffie-Hellman Key Exchange.md",
     "NDC & PKI/Day 4/1. Asymmetric Encryption Schemes.md",
-    "NDC & PKI/Day 4/7. Extra.md",
-    "NDC & PKI/Day 3/6. Nagios Setup.md",
     "Pasted image 20241213100609.png",
     "Pasted image 20241213095919.png",
-    "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
     "NDC & PKI/Day 2/7. Extra.md",
     "NDC & PKI/Day 3/3. Encryption Schemes.md",
     "NDC & PKI/Day 4",
     "NDC & PKI/Day 3/5. Package Installation in Linux.md",
-    "NDC & PKI/Day 3/4. Monitoring Health of a Machine.md",
     "NDC & PKI/Day 3/9. Extra.md",
     "NDC & PKI/Day 2/1. Overview of SNORT.md",
     "NDC & PKI/Day 2/2. SNORT Setup.md",
-    "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
-    "NDC & PKI/Day 1/7. Extra.md",
-    "NDC & PKI/Day 2/3. SNORT Rules.md",
-    "NDC & PKI/Day 1/6. TCPdump.md",
-    "NDC & PKI/Day 1/5. Hash Function.md",
-    "NDC & PKI/Day 1/4. Wireshark.md",
-    "NDC & PKI/Day 1/3. Software Vulnerabilities.md",
-    "NDC & PKI/Day 1/2. Information Security.md",
-    "NDC & PKI/Day 3/2. Encryption Methods.md",
     "NDC & PKI/Day 3/4. nagios.png",
     "NDC & PKI/Day 3/Pasted image 20241212115128.png",
     "NDC & PKI/Day 3",
@@ -213,9 +233,6 @@
     "NDC & PKI/Day 1",
     "NDC & PKI",
     "Security Concepts/Mobile Security.pdf",
-    "Security Concepts/Day 12",
-    "Security Concepts/Day 10/ojas.html",
-    "Security Concepts/Day 11",
     "Compliance Audit/Day 3/9. GDPR.png"
   ]
 }
