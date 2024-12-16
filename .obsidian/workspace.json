@@ -4,16 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a452ec8e744b50ce",
+        "id": "1a4a4ec4ff6f337f",
         "type": "tabs",
         "children": [
           {
-            "id": "4c8474921f82e1f9",
+            "id": "dd09993fc1009866",
             "type": "leaf",
             "state": {
-              "type": "beautitab-react-view",
-              "state": {},
-              "title": "New tab"
+              "type": "markdown",
+              "state": {
+                "file": "NDC & PKI/Day 6/5. Extra.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Extra"
             }
           }
         ]
@@ -72,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 310.5,
-    "collapsed": true
+    "width": 310.5
   },
   "right": {
     "id": "ef3818027ca3ebbd",
@@ -167,15 +171,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4c8474921f82e1f9",
+  "active": "dd09993fc1009866",
   "lastOpenFiles": [
-    "NDC & PKI/Day 6/5. Extra.md",
     "NDC & PKI/Day 6/4. Installing and Configuring pfSense with Debian Machines.md",
+    "NDC & PKI/Day 6/5. Extra.md",
     "NDC & PKI/Day 6/3. iptables-save-configuration.png",
     "NDC & PKI/Day 6/3. iptables LAB.md",
-    "NDC & PKI/Day 6/1. Firewall and its Types.md",
-    "NDC & PKI/Day 6/2. iptable.png",
     "NDC & PKI/Day 6/2. iptables.md",
+    "NDC & PKI/Day 6/1. Firewall and its Types.md",
+    "NDC & PKI/Day 7/Day 7 16th Dec 2024.md",
+    "NDC & PKI/Day 7",
+    "NDC & PKI/Day 6/2. iptable.png",
     "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
     "NDC & PKI/Day 5/6. Squid as a Load Balancer.md",
     "NDC & PKI/Day 6/iptables.png",
@@ -206,13 +212,10 @@
     "NDC & PKI/Day 5/VPN.png.crdownload",
     "NDC & PKI/Day 4/7. Extra.md",
     "NDC & PKI/Day 5",
-    "NDC & PKI/Day 4/3. Network Configuration Scenario.md",
-    "NDC & PKI/Day 4/2. Diffie-Hellman Key Exchange.md",
     "NDC & PKI/Day 4",
     "NDC & PKI/Day 3",
     "NDC & PKI/Day 2/Untitled",
     "NDC & PKI/Day 2",
-    "NDC & PKI/Day 1",
-    "NDC & PKI"
+    "NDC & PKI/Day 1"
   ]
 }
