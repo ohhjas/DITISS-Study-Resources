@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDC & PKI/Day 8/8. Extra.md",
+                "file": "NDC & PKI/Day 8/7. IP Forwarding and NAT Configuration(LAB 4).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Extra"
+              "title": "7. IP Forwarding and NAT Configuration(LAB 4)"
             }
           },
           {
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 8/8. Extra.md"
+                "file": "NDC & PKI/Day 8/7. IP Forwarding and NAT Configuration(LAB 4).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 8. Extra"
+              "title": "Outline of 7. IP Forwarding and NAT Configuration(LAB 4)"
             }
           },
           {
@@ -188,7 +188,8 @@
   },
   "active": "763e4b93573f0830",
   "lastOpenFiles": [
-    "NDC & PKI/Day 8/7. LAB 4 IP Forwarding and NAT Configuration.md",
+    "NDC & PKI/Day 8/8. Extra.md",
+    "NDC & PKI/Day 8/7. IP Forwarding and NAT Configuration(LAB 4).md",
     "NDC & PKI/Day 8/6. Modern Security Architectures and Authentication Protocols.md",
     "NDC & PKI/Day 8/5. Full Tunnel and Split Tunnel VPN.md",
     "NDC & PKI/Day 8/4. IPTABLES and Chains.md",
@@ -196,7 +197,6 @@
     "NDC & PKI/Day 8/2. SNORT on Linux (LAB 2).md",
     "NDC & PKI/Day 8/1. PKI using XCA (LAB 1).md",
     "NDC & PKI/Day 8/1. LAB 1 draft.md",
-    "NDC & PKI/Day 8/8. Extra.md",
     "NDC & PKI/Day 8/17th Dec 2024.md",
     "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
     "NDC & PKI/Day 6/2. iptables.png",
