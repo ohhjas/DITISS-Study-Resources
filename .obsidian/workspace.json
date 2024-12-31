@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "85767c64d1ea13d3",
+        "id": "5817264e67453008",
         "type": "tabs",
         "children": [
           {
-            "id": "532abc288f36bb3d",
+            "id": "01828ab142313734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NDC & PKI/Day 12/Extra.md",
+                "file": "Cyber Forensics/Day 1/3. Assignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Extra"
-            }
-          },
-          {
-            "id": "d1ff40cf8d1bc74b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NDC & PKI/Day 12/Extra.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Extra"
+              "title": "3. Assignment"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 266.5
   },
   "right": {
     "id": "ef3818027ca3ebbd",
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NDC & PKI/Day 12/Extra.md"
+                "file": "Cyber Forensics/Day 1/3. Assignment.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Extra"
+              "title": "Outline of 3. Assignment"
             }
           },
           {
@@ -187,12 +172,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d1ff40cf8d1bc74b",
+  "active": "01828ab142313734",
   "lastOpenFiles": [
+    "Cyber Forensics/Day 1/2. Important File Locations.md",
+    "Cyber Forensics/Day 1/3. Assignment.md",
+    "Cyber Forensics/Day 1/1. Other than PPT.md",
     "NDC & PKI/Day 12/2. Some Theory Topics.md",
+    "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
+    "New folder",
+    "Computer Networks/Day 2/2. Switches and Networks.md",
+    "Cyber Forensics/Day 1",
+    "Cyber Forensics",
+    "Computer Networks/Day 2/1. ARP (Address Resolution Protocol).md",
+    "Computer Networks/Day 1/5. Extra.md",
+    "Computer Networks/Day 1/4. Ethernet.md",
+    "Computer Networks/Day 1/3. Types of Networks.md",
+    "Computer Networks/Day 1/1. Networks and its History.md",
+    "Computer Networks/Day 1/2. Generations of Computation.md",
+    "NDC & PKI/Day 1/1. Overview and Revision.md",
     "NDC & PKI/Day 12/Extra.md",
     "NDC & PKI/Day 12/3. NAT.md",
-    "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
     "NDC & PKI/Day 11/2. LAB Logstash and Kabana.md",
     "Untitled.md",
     "NDC & PKI/Day 10/4. Elasticsearch Logstash Kibana (ELK).md",
@@ -219,21 +218,7 @@
     "Operating Systems & Administration/Day 7/Scripts/script27.sh",
     "Operating Systems & Administration/Day 7/images/2. Symbolic Link.png",
     "Operating Systems & Administration/Day 7/images/2. Hard Link.png",
-    "Operating Systems & Administration/Day 7/Scripts/install.sh",
     "Operating Systems & Administration/Day 7/images/1. Dual.png",
-    "Operating Systems & Administration/Day 6/scripts/script23.sh",
-    "Operating Systems & Administration/Day 6/scripts/script25.sh",
-    "Operating Systems & Administration/Day 7/3. Back to Shell Scripting.md",
-    "Operating Systems & Administration/Day 7/2. Hard Link and Symbolic Link.md",
-    "Operating Systems & Administration/Day 7/1. Dual Mode Operation of OS.md",
-    "Operating Systems & Administration/Day 6/3. Shell Scripting again.md",
-    "Operating Systems & Administration/Day 6/2. Types of Kernel.md",
-    "Operating Systems & Administration/Day 6/1.  Spacing in Shell Scripting.md",
-    "Operating Systems & Administration/Day 5/3. Shell Scripting or Shell Programming.md",
-    "Operating Systems & Administration/Day 5/2. VI Editor.md",
-    "Operating Systems & Administration/Day 5/1. Commands.md",
-    "Operating Systems & Administration/Day 3/4. Some more commands.md",
-    "Operating Systems & Administration/Day 3/3. Pipes.md",
-    "Operating Systems & Administration/Day 3/2. Redirection.md"
+    "Operating Systems & Administration/Day 7/3. Back to Shell Scripting.md"
   ]
 }
