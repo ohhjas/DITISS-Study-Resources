@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Forensics/Day 1/3. Assignment.md",
+                "file": "Cyber Forensics/Day 2/4. Extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Assignment"
+              "title": "4. Extra"
+            }
+          },
+          {
+            "id": "b129b043c69481c0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3. HTTPS and SSH Encryption"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -139,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Forensics/Day 1/3. Assignment.md"
+                "file": "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Assignment"
+              "title": "Outline of 3. HTTPS and SSH Encryption"
             }
           },
           {
@@ -172,11 +187,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "01828ab142313734",
+  "active": "b129b043c69481c0",
   "lastOpenFiles": [
+    "Cyber Forensics/Day 2/4. Extra.md",
+    "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
+    "Cyber Forensics/Day 2/2. Cyber Forensics Essentials.md",
+    "Cyber Forensics/Day 2/1. Incident Response Plan.md",
+    "NDC & PKI/Day 1/1. Overview and Revision.md",
+    "Cyber Forensics/Day 1/1. Other than PPT.md",
+    "Cyber Forensics/Day 2",
     "Cyber Forensics/Day 1/2. Important File Locations.md",
     "Cyber Forensics/Day 1/3. Assignment.md",
-    "Cyber Forensics/Day 1/1. Other than PPT.md",
     "NDC & PKI/Day 12/2. Some Theory Topics.md",
     "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
     "New folder",
@@ -189,7 +210,6 @@
     "Computer Networks/Day 1/3. Types of Networks.md",
     "Computer Networks/Day 1/1. Networks and its History.md",
     "Computer Networks/Day 1/2. Generations of Computation.md",
-    "NDC & PKI/Day 1/1. Overview and Revision.md",
     "NDC & PKI/Day 12/Extra.md",
     "NDC & PKI/Day 12/3. NAT.md",
     "NDC & PKI/Day 11/2. LAB Logstash and Kabana.md",
@@ -200,8 +220,6 @@
     "NDC & PKI/Day 10/1. PKI Lab using OpenSSL in CLI.md",
     "NDC & PKI/Day 11/1. Logstash.md",
     "NDC & PKI/Day 12",
-    "NDC & PKI/Day 11/5. Extra.md",
-    "NDC & PKI/Day 11/4. Nagios Lab with Email Alert.md",
     "NDC & PKI/Day 11/3. IPSec Transport Mode with Authentication Header.png",
     "NDC & PKI/Day 11/3. IPSec Transport Mode with ESP Header.png",
     "NDC & PKI/Day 11/3. IPSec Transport Mode.png",
@@ -209,16 +227,13 @@
     "NDC & PKI/Day 11/3. IPSec Tunnel Mode with ESP Header.png",
     "NDC & PKI/Day 11/3. IPSec Tunnel Mode.png",
     "Pasted image 20241220233018.png",
-    "NDC & PKI/Day 11/1. Logstash in ELK.md",
     "Operating Systems & Administration/Day 7/Scripts/script31.sh",
     "Operating Systems & Administration/Day 7/Scripts/script32.sh",
     "Operating Systems & Administration/Day 7/Scripts/script29.sh",
     "Operating Systems & Administration/Day 7/Scripts/script30.sh",
     "Operating Systems & Administration/Day 7/Scripts/script28.sh",
-    "Operating Systems & Administration/Day 7/Scripts/script27.sh",
     "Operating Systems & Administration/Day 7/images/2. Symbolic Link.png",
     "Operating Systems & Administration/Day 7/images/2. Hard Link.png",
-    "Operating Systems & Administration/Day 7/images/1. Dual.png",
-    "Operating Systems & Administration/Day 7/3. Back to Shell Scripting.md"
+    "Operating Systems & Administration/Day 7/images/1. Dual.png"
   ]
 }
