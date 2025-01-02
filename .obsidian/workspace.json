@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5817264e67453008",
+        "id": "1cef39c3dfcc842b",
         "type": "tabs",
         "children": [
           {
-            "id": "01828ab142313734",
+            "id": "714aa40979dbc708",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Forensics/Day 2/4. Extra.md",
+                "file": "Cyber Forensics/Day 3/4. Extra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "4. Extra"
             }
-          },
-          {
-            "id": "b129b043c69481c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. HTTPS and SSH Encryption"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 266.5
+    "width": 321.5
   },
   "right": {
     "id": "ef3818027ca3ebbd",
@@ -154,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md"
+                "file": "Cyber Forensics/Day 3/4. Extra.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. HTTPS and SSH Encryption"
+              "title": "Outline of 4. Extra"
             }
           },
           {
@@ -187,38 +172,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b129b043c69481c0",
+  "active": "714aa40979dbc708",
   "lastOpenFiles": [
-    "Cyber Forensics/Day 2/4. Extra.md",
-    "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
-    "Cyber Forensics/Day 2/2. Cyber Forensics Essentials.md",
-    "Cyber Forensics/Day 2/1. Incident Response Plan.md",
-    "NDC & PKI/Day 1/1. Overview and Revision.md",
-    "Cyber Forensics/Day 1/1. Other than PPT.md",
-    "Cyber Forensics/Day 2",
-    "Cyber Forensics/Day 1/2. Important File Locations.md",
+    "Cyber Forensics/Day 3/3. Assignment.md",
+    "Cyber Forensics/Day 3/4. Extra.md",
+    "Cyber Forensics/Day 3/2. Memory Forensics.md",
+    "Cyber Forensics/Day 3/1. Disk imaging in Cyber Forensics.md",
     "Cyber Forensics/Day 1/3. Assignment.md",
-    "NDC & PKI/Day 12/2. Some Theory Topics.md",
-    "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
+    "Cyber Forensics/Day 1/1. Other than PPT.md",
+    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
+    "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
+    "NDC & PKI/Day 3/6. Nagios Setup.md",
+    "NDC & PKI/Day 3/8. PKI Lab (Encryption and Decryption).md",
+    "Cyber Forensics/Day 2/2. Cyber Forensics Essentials.md",
+    "NDC & PKI/Day 2/3. SNORT Rules.md",
+    "NDC & PKI/Day 2/2. SNORT Setup.md",
+    "NDC & PKI/Day 3/4. Monitoring Health of a Machine.md",
+    "NDC & PKI/Day 3/1. Introduction to Cryptography.md",
+    "Cyber Forensics/Day 3",
+    "Cyber Forensics/Day 2/1. Incident Response Plan.md",
+    "NDC & PKI/Day 2/1. Overview of SNORT.md",
+    "NDC & PKI/Day 1/7. Extra.md",
+    "NDC & PKI/Day 1/6. TCPdump.md",
+    "NDC & PKI/Day 1/5. Hash Function.md",
+    "NDC & PKI/Day 1/4. Wireshark.md",
+    "NDC & PKI/Day 1/3. Software Vulnerabilities.md",
+    "NDC & PKI/Day 1/2. Information Security.md",
+    "NDC & PKI/Day 1/1. Overview and Revision.md",
+    "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
+    "Cyber Forensics/Day 2/4. Extra.md",
+    "Cyber Forensics/Day 2",
     "New folder",
-    "Computer Networks/Day 2/2. Switches and Networks.md",
     "Cyber Forensics/Day 1",
     "Cyber Forensics",
-    "Computer Networks/Day 2/1. ARP (Address Resolution Protocol).md",
-    "Computer Networks/Day 1/5. Extra.md",
-    "Computer Networks/Day 1/4. Ethernet.md",
-    "Computer Networks/Day 1/3. Types of Networks.md",
-    "Computer Networks/Day 1/1. Networks and its History.md",
-    "Computer Networks/Day 1/2. Generations of Computation.md",
-    "NDC & PKI/Day 12/Extra.md",
-    "NDC & PKI/Day 12/3. NAT.md",
-    "NDC & PKI/Day 11/2. LAB Logstash and Kabana.md",
-    "Untitled.md",
-    "NDC & PKI/Day 10/4. Elasticsearch Logstash Kibana (ELK).md",
-    "NDC & PKI/Day 8/6. Modern Security Architectures and Authentication Protocols.md",
-    "NDC & PKI/Day 11/3. IPSec.md",
-    "NDC & PKI/Day 10/1. PKI Lab using OpenSSL in CLI.md",
-    "NDC & PKI/Day 11/1. Logstash.md",
     "NDC & PKI/Day 12",
     "NDC & PKI/Day 11/3. IPSec Transport Mode with Authentication Header.png",
     "NDC & PKI/Day 11/3. IPSec Transport Mode with ESP Header.png",
@@ -231,7 +217,6 @@
     "Operating Systems & Administration/Day 7/Scripts/script32.sh",
     "Operating Systems & Administration/Day 7/Scripts/script29.sh",
     "Operating Systems & Administration/Day 7/Scripts/script30.sh",
-    "Operating Systems & Administration/Day 7/Scripts/script28.sh",
     "Operating Systems & Administration/Day 7/images/2. Symbolic Link.png",
     "Operating Systems & Administration/Day 7/images/2. Hard Link.png",
     "Operating Systems & Administration/Day 7/images/1. Dual.png"
