@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1cef39c3dfcc842b",
+        "id": "729316c4c5cf49e8",
         "type": "tabs",
         "children": [
           {
-            "id": "714aa40979dbc708",
+            "id": "2272ecd67d53c903",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Forensics/Day 3/4. Extra.md",
+                "file": "Cyber Forensics/Day 1/3. Assignment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Extra"
+              "title": "3. Assignment"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cyber Forensics/Day 3/4. Extra.md"
+                "file": "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 4. Extra"
+              "title": "Outline of 4. Remote Machine Monitoring (Nagios)"
             }
           },
           {
@@ -160,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -172,15 +173,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "714aa40979dbc708",
+  "active": "2272ecd67d53c903",
   "lastOpenFiles": [
-    "Cyber Forensics/Day 3/3. Assignment.md",
-    "Cyber Forensics/Day 3/4. Extra.md",
+    "Cyber Forensics/Day 4/1. Memory Forensics.md",
+    "Cyber Forensics/Day 4/1. Last Day.md",
+    "Cyber Forensics/Day 4/2. CCEE alike questions.md",
+    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
+    "Cyber Forensics/Day 4/ITIL.md",
+    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
     "Cyber Forensics/Day 3/2. Memory Forensics.md",
-    "Cyber Forensics/Day 3/1. Disk imaging in Cyber Forensics.md",
+    "Cyber Forensics/Day 4",
+    "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
+    "Cyber Forensics/Day 3/3. Assignment.md",
+    "Cyber Forensics/Day 3/1. Disk Imaging in Cyber Forensics.md",
+    "Cyber Forensics/Day 3/4. Extra.md",
+    "Cyber Forensics/Day 3/02-01-2025.md",
     "Cyber Forensics/Day 1/3. Assignment.md",
     "Cyber Forensics/Day 1/1. Other than PPT.md",
-    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
     "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
     "NDC & PKI/Day 3/6. Nagios Setup.md",
     "NDC & PKI/Day 3/8. PKI Lab (Encryption and Decryption).md",
@@ -194,13 +203,6 @@
     "NDC & PKI/Day 2/1. Overview of SNORT.md",
     "NDC & PKI/Day 1/7. Extra.md",
     "NDC & PKI/Day 1/6. TCPdump.md",
-    "NDC & PKI/Day 1/5. Hash Function.md",
-    "NDC & PKI/Day 1/4. Wireshark.md",
-    "NDC & PKI/Day 1/3. Software Vulnerabilities.md",
-    "NDC & PKI/Day 1/2. Information Security.md",
-    "NDC & PKI/Day 1/1. Overview and Revision.md",
-    "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
-    "Cyber Forensics/Day 2/4. Extra.md",
     "Cyber Forensics/Day 2",
     "New folder",
     "Cyber Forensics/Day 1",
@@ -216,7 +218,6 @@
     "Operating Systems & Administration/Day 7/Scripts/script31.sh",
     "Operating Systems & Administration/Day 7/Scripts/script32.sh",
     "Operating Systems & Administration/Day 7/Scripts/script29.sh",
-    "Operating Systems & Administration/Day 7/Scripts/script30.sh",
     "Operating Systems & Administration/Day 7/images/2. Symbolic Link.png",
     "Operating Systems & Administration/Day 7/images/2. Hard Link.png",
     "Operating Systems & Administration/Day 7/images/1. Dual.png"
