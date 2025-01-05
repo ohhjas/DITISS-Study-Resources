@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cyber Forensics/Day 1/3. Assignment.md",
+                "file": "NDC & PKI/Day 8/2. SNORT on Linux (LAB 2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Assignment"
+              "title": "2. SNORT on Linux (LAB 2)"
             }
           }
         ]
@@ -175,12 +175,14 @@
   },
   "active": "2272ecd67d53c903",
   "lastOpenFiles": [
+    "NDC & PKI/Day 4/6. SQUID.md",
+    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
+    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
+    "Cyber Forensics/Day 1/3. Assignment.md",
     "Cyber Forensics/Day 4/1. Memory Forensics.md",
     "Cyber Forensics/Day 4/1. Last Day.md",
     "Cyber Forensics/Day 4/2. CCEE alike questions.md",
-    "NDC & PKI/Day 4/5. Reverse Proxy Setup with Nginx and Apache.md",
     "Cyber Forensics/Day 4/ITIL.md",
-    "NDC & PKI/Day 4/4. Remote Machine Monitoring (Nagios).md",
     "Cyber Forensics/Day 3/2. Memory Forensics.md",
     "Cyber Forensics/Day 4",
     "NDC & PKI/Day 2/6. Setting up a new Debian Machine.md",
@@ -188,7 +190,6 @@
     "Cyber Forensics/Day 3/1. Disk Imaging in Cyber Forensics.md",
     "Cyber Forensics/Day 3/4. Extra.md",
     "Cyber Forensics/Day 3/02-01-2025.md",
-    "Cyber Forensics/Day 1/3. Assignment.md",
     "Cyber Forensics/Day 1/1. Other than PPT.md",
     "NDC & PKI/Day 3/7. Installing the Nagios Plugins.md",
     "NDC & PKI/Day 3/6. Nagios Setup.md",
@@ -202,7 +203,6 @@
     "Cyber Forensics/Day 2/1. Incident Response Plan.md",
     "NDC & PKI/Day 2/1. Overview of SNORT.md",
     "NDC & PKI/Day 1/7. Extra.md",
-    "NDC & PKI/Day 1/6. TCPdump.md",
     "Cyber Forensics/Day 2",
     "New folder",
     "Cyber Forensics/Day 1",
