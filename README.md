@@ -1,39 +1,28 @@
-# DITISS Notes Repository
+# DITISS Study Resources
 
-Welcome to the **DITISS Notes** repository! This repository contains my study notes, case studies, and important concepts related to my PG-DITISS (Post Graduate Diploma in Information Technology and Information Security Systems) course. The notes are organized by subject and cover a wide range of topics, from networking and systems administration to security concepts and compliance auditing.
+Hi there! 👋 Welcome to my repository for **DITISS study materials**. This repo is where I’ve compiled all my notes, resources, and references from the **Post Graduate Diploma in IT Infrastructure, Systems & Security (PG-DITISS)** course at Sunbeam, Pune.
 
-## Table of Contents
-1. [Compliance and Audit](#compliance-and-audit)
-2. [Computer Networks](#computer-networks)
-3. [Operating Systems & Administration](#operating-systems--administration)
-4. [Security Concepts](#security-concepts)
-5. [Windows Administration](#windows-administration)
-6. [Important Case Studies](#important-case-studies)
+## What's Inside
 
-## Subject-wise Breakdown
+Here’s how I’ve organized everything:
 
-### Compliance and Audit
-This section covers key concepts related to compliance, audit processes, risk assessment, and governance. Topics like auditing practices, risk management, and regulatory compliance are discussed here.
+- **Compliance Audit**: Notes on compliance rules, audits, and how they apply to cybersecurity.
+- **Computer Networks**: Basics and advanced topics, including routing, switching, and network protocols.
+- **Operating Systems**: Linux and Windows notes, with admin tips and tricks.
+- **Security Concepts**: Stuff on ethical hacking, web security, and a bit of Python for security tools.
+- **Windows Administration**: Detailed guides on managing Windows servers, Active Directory, and group policies.
+- **Case Studies**: Real-world scenarios and how we tackled them during the course.
 
-### Computer Networks
-Notes on networking fundamentals, including network protocols, architectures, and configurations. Topics include DHCP, DNS, IP addressing, and more.
+## How to Use This Repo
 
-### Operating Systems & Administration
-Important topics around system administration, including installation, configuration, maintenance, and troubleshooting of operating systems like Linux and Windows.
+Just browse through the folders and pick what you need. Each topic has its own folder, and I’ve tried to keep things clean and organized. If something looks messy, let me know. I'm learning too! 😊
 
-### Security Concepts
-Comprehensive notes on various security practices, cybersecurity threats, risk management, and attack prevention. Includes case studies on phishing, social engineering, and network security.
+## Why I Made This
 
-### Windows Administration
-Focused on managing and administering Windows-based systems, including configuration, security policies, and system maintenance.
+This repo is mostly for my revision and to help out anyone else doing DITISS or similar courses. Sharing is caring, right?
 
-## Case Studies and Important Topics
-In this section, you will find detailed case studies on specific subjects like risk assessment, system auditing, and security configurations.
+## Got Suggestions?
+
+If you spot errors, or think something can be explained better, feel free to contribute. Fork the repo, make your edits, and send me a pull request. I’d love to hear your feedback!
 
 ---
-
-### Future Updates
-
-This repository will continue to grow as I progress through my **PG-DITISS course at Sunbeam DITISS**. I will keep adding new notes and learning materials until the completion of my course. Once the course comes to an end, I will stop posting new content here. However, the repository will serve as a reference for everything I've learned during my time in the program.
-
-Feel free to explore each section and use the notes for your reference. Contributions and suggestions are always welcome!
