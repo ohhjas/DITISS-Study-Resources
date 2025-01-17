@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "297dd9db6c6a9acc",
+        "id": "683cc94bdbb618e0",
         "type": "tabs",
         "children": [
           {
-            "id": "c1a89c68e5f237a7",
+            "id": "63b385ca9491f072",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compliance Audit/Day 1/1. Key Concepts.md",
-                "mode": "preview",
+                "file": "Computer Networks/Day 5/1. DHCP (Dynamic Host Configuration Protocol).md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Key Concepts"
+              "title": "1. DHCP (Dynamic Host Configuration Protocol)"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compliance Audit/Day 1/1. Key Concepts.md"
+                "file": "Computer Networks/Day 5/1. DHCP (Dynamic Host Configuration Protocol).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 1. Key Concepts"
+              "title": "Outline of 1. DHCP (Dynamic Host Configuration Protocol)"
             }
           },
           {
@@ -172,35 +172,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1a89c68e5f237a7",
+  "active": "63b385ca9491f072",
   "lastOpenFiles": [
-    "NDC & PKI/Day 12/Extra.md",
-    "NDC & PKI/Day 12/3. NAT (Network Address Translation).md",
-    "NDC & PKI/Day 12/2. Some Theory Topics.md",
-    "NDC & PKI/Day 12/1. Adding another client PKI Lab.md",
-    "NDC & PKI/Day 11/5. Extra.md",
-    "NDC & PKI/Day 11/4. Nagios Lab with Email Alert.md",
-    "NDC & PKI/Day 11/3. IPSec.md",
+    "Computer Networks/Day 4/4. Subnet Mask.md",
+    "Computer Networks/Day 4/3. Protocols.md",
+    "Computer Networks/Day 4/2. Cabling.md",
+    "Computer Networks/Day 3/4. Data Link and Network Layer.md",
+    "Computer Networks/Day 3/3. Physical Layer.md",
+    "Computer Networks/Day 3/2. OSI Model.md",
+    "Computer Networks/Day 3/1. IP Addresses and Switching.md",
+    "Computer Networks/Day 2/Extra.md",
+    "Computer Networks/Day 2/3. Routers and Subnets.md",
+    "Computer Networks/Day 2/2. Switches and Networks.md",
+    "Computer Networks/Day 2/1. ARP (Address Resolution Protocol).md",
+    "Computer Networks/Day 1/5. Extra.md",
+    "Computer Networks/Day 1/4. Ethernet.md",
+    "Computer Networks/Day 1/3. Types of Networks.md",
+    "Computer Networks/Day 1/2. Generations of Computation.md",
+    "Computer Networks/Day 1/1. Networks and its History.md",
+    "Compliance Audit/Day 2/2. Health Insurance Portability and Accountability Act (HIPAA).md",
+    "Compliance Audit/Day 3/12. Control Objectives for Information and Related Technology(COBIT).md",
+    "Compliance Audit/Day 4/1. System and Organisations Control (SOC).md",
+    "Compliance Audit/Day 4/5. Security Evaluation.md",
+    "Compliance Audit/Day 4/3. Sarbanes-Oxley Act (SOx).md",
+    "Compliance Audit/Day 3/11. An Actual Compliance Audit.md",
+    "Compliance Audit/Day 3/10. GDPR.md",
+    "Compliance Audit/Day 2/3. NIST Cybersecurity Framework (CSF).md",
+    "Compliance Audit/Day 1/4. Understanding Intellectual Property Rights (IPR).md",
+    "Compliance Audit/Day 1/3. Threats, Audit Types, and Security Policies.md",
     "NDC & PKI/Day 11/3. IPSec Tunnel Mode with Authentication Header.png",
-    "NDC & PKI/Day 11/2. LAB Logstash and Kibana.md",
-    "NDC & PKI/Day 11/1. Logstash.md",
-    "NDC & PKI/Day 10/4. Elasticsearch Logstash Kibana (ELK).md",
-    "NDC & PKI/Day 10/3. NFQueue and the IPS mode of Suricata.md",
-    "NDC & PKI/Day 10/2. IDS (Intrusion Detection System).md",
-    "NDC & PKI/Day 10/1. PKI Lab using OpenSSL in CLI.md",
-    "NDC & PKI/Day 9/6. Blockchain.md",
-    "Cyber Forensics/Day 4/2. CCEE alike questions.md",
-    "Cyber Forensics/Day 4/1. Memory Forensics.md",
-    "Cyber Forensics/Day 3/4. Extra.md",
-    "Cyber Forensics/Day 3/2. Memory Forensics.md",
-    "Cyber Forensics/Day 3/3. Assignment.md",
-    "Cyber Forensics/Day 3/1. Disk Imaging in Cyber Forensics.md",
-    "Cyber Forensics/Day 2/4. Extra.md",
-    "Cyber Forensics/Day 2/3. HTTPS and SSH Encryption.md",
-    "Cyber Forensics/Day 2/2. Cyber Forensics Essentials.md",
-    "Cyber Forensics/Day 2/1. Incident Response Plan.md",
-    "Cyber Forensics/Day 1/3. Assignment.md",
-    "Cyber Forensics/Day 1/2. Important File Locations.md",
     "Cyber Forensics/Day 4",
     "Cyber Forensics/Day 3",
     "Cyber Forensics/Day 2",
