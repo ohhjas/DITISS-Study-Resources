@@ -8,6 +8,8 @@
   },
   "spellcheckDictionary": [
     "NVRAM",
-    "ROMMON"
+    "ROMMON",
+    "EIGRP",
+    "ASBR"
   ]
 }
