@@ -10,6 +10,8 @@
     "NVRAM",
     "ROMMON",
     "EIGRP",
-    "ASBR"
+    "ASBR",
+    "root",
+    "DLCI"
   ]
 }

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Networks/Day 8/3. Deployment of OSPF.md",
+                "file": "Cyber Forensics/Day 4/2. CCEE alike questions.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Deployment of OSPF"
+              "title": "2. CCEE alike questions"
             }
           }
         ]
@@ -93,17 +93,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compliance Audit/Day 1/Untitled 2.md",
-                "collapseAll": false,
+                "file": "Computer Networks/Software Defined Network (SDN) by Sandeep Sir.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": true,
+                "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 2"
+              "title": "Backlinks for Software Defined Network (SDN) by Sandeep Sir"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Networks/Day 8/3. Deployment of OSPF.md"
+                "file": "Cyber Forensics/Day 4/2. CCEE alike questions.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 3. Deployment of OSPF"
+              "title": "Outline of 2. CCEE alike questions"
             }
           },
           {
@@ -174,34 +174,35 @@
   },
   "active": "8cade7cd815f37eb",
   "lastOpenFiles": [
-    "Computer Networks/Day 8/2. OSPF and its Architecture.md",
-    "Computer Networks/Day 8/1. Link State (Dynamic Routing).md",
+    "Computer Networks/Software Defined Network (SDN) by Sandeep Sir.md",
+    "Computer Networks/Day 12/5. IP Sec (IP Security).md",
+    "Computer Networks/Day 12/4. GRE Tunnel Configuration.md",
+    "Computer Networks/Day 12/3. GRE Tunnel.md",
+    "Computer Networks/Day 12/2. WPA (Wi-Fi Protected Access).md",
+    "Computer Networks/Day 12/1. Security of WLAN and WEP.md",
+    "Computer Networks/Day 11/10. WLAN (Wireless LAN).md",
+    "Computer Networks/Day 11/9. Site-Local and Link-Local Addresses in IPv6.md",
+    "Computer Networks/Day 11/8. IPv6 Enhancements Over IPv4.md",
+    "Computer Networks/Day 11/7. Anycast Address.md",
+    "Computer Networks/Day 11/6. IPv6.md",
+    "Computer Networks/Day 11/5. Dynamic NAT with Overload.md",
+    "Computer Networks/Day 11/3. Static NAT.md",
+    "Computer Networks/Day 11/4. Dynamic NAT.md",
+    "Computer Networks/Day 11/2. Network Address Translation (NAT).md",
+    "Computer Networks/Day 11/1. Advantages of Frame-Relay.md",
+    "Computer Networks/Day 10/13. Frame-Relay.md",
+    "Computer Networks/Day 10/12. Commands for encapsulating CHAP and PAP.md",
+    "Computer Networks/Day 10/11. Overcoming the Drawbacks of HDLC.md",
+    "Computer Networks/Day 10/10. HDLC and SDLC.md",
+    "Computer Networks/Day 10/9. WAN Infrastructure.md",
+    "Computer Networks/Day 10/8. Wide Area Network (WAN).md",
+    "Computer Networks/Day 10/7. ACL for Telnetting.md",
+    "Computer Networks/Day 10/6. Monitoring commands.md",
+    "Computer Networks/Day 10/5. Named ACL.md",
+    "Computer Networks/Day 10/4. Extended ACL.md",
     "Computer Networks/Day 8/2. OSPF Architecture.png",
-    "Computer Networks/Day 6/6. Routing.md",
-    "Computer Networks/Day 7/8. Routing Table.md",
-    "Computer Networks/Day 7/7. Timers in RIP.md",
-    "Computer Networks/Day 7/6. Routing Loop.md",
-    "Computer Networks/Day 7/5. RIP v1 and v2.md",
-    "Computer Networks/Day 7/4. Drawbacks Of RIP.md",
-    "Computer Networks/Day 7/3. RIP Configuration.md",
-    "Computer Networks/Day 7/2. Dynamic Routes.md",
-    "Computer Networks/Day 7/1. Static Routes.md",
-    "Computer Networks/Day 6/7. Static and Default Routing.md",
-    "Computer Networks/Day 6/1. Some more commands.md",
-    "Computer Networks/Day 6/5. Configuring Hosts.md",
-    "Computer Networks/Day 6/8. Register Values and Password Recovery.md",
-    "Computer Networks/Day 6/4. Telnetting.md",
-    "Computer Networks/Day 6/3. Backup and Restore.md",
-    "Computer Networks/Day 6/2. CDP (Cisco Discovery Protocol).md",
     "Computer Networks/Day 5/router-arch.png",
     "Computer Networks/Day 5/cisco-router.png",
-    "Computer Networks/Day 5/5. Extra.md",
-    "Computer Networks/Day 5/4. Cisco IOS (Internetwork Operating System).md",
-    "Computer Networks/Day 5/3. Cisco Router Overview.md",
-    "Computer Networks/Day 5/2. ICMP (Internet Control Message Protocol).md",
-    "Computer Networks/Day 5/1. DHCP (Dynamic Host Configuration Protocol).md",
-    "Computer Networks/Day 4/4. Subnet Mask.md",
-    "Computer Networks/Day 4/3. Protocols.md",
     "NDC & PKI/Day 11/3. IPSec Tunnel Mode with Authentication Header.png",
     "Cyber Forensics/Day 4",
     "Cyber Forensics/Day 3",

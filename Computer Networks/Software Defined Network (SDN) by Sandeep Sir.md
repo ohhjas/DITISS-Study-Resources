@@ -1,8 +1,10 @@
-### **What is Network Function Virtualisation (NFV)?**
+### **What is Network Function Virtualization (NFV)?**
+
+A **Software-Defined Network (SDN)** is a way to manage networks using software instead of relying only on hardware. It separates the part of the network that decides where data should go (control) from the part that moves the data (traffic). This makes it easier to control, automate, and change the network as needed.
 
 - **Network Functions:** Basic tasks like switching, routing, and other networking operations.
 - Traditionally, these functions are handled by physical devices like switches and routers.
-- **Virtualisation of Network Functions:** With NFV, these physical devices are replaced with virtual counterparts.
+- **Virtualization of Network Functions:** With NFV, these physical devices are replaced with virtual counterparts.
     - Example: When we configured a **VPC (Virtual Private Cloud)** in AWS, we virtually created and managed networking components.
 
 ### **How NFV Works**
